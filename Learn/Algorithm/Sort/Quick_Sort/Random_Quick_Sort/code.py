@@ -18,14 +18,14 @@ import random
 def random_quick_sort(arr: list):
     if len(arr) < 2:
         return
-    random_quick_sort_(arr, 0, len(arr) - 1)
+    randomQuickSort(arr, 0, len(arr) - 1)
 
 
-def random_quick_sort_(arr: list, left: int, right: int):
+def randomQuickSort(arr: list, left: int, right: int):
     if left < right:
         less, more = partition(arr, left, right, arr[random.randint(left, right)])
-        random_quick_sort_(arr, left, less)
-        random_quick_sort_(arr, more, right)
+        randomQuickSort(arr, left, less)
+        randomQuickSort(arr, more, right)
 
 
 def partition(arr: list, left: int, right: int, p: int):

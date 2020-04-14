@@ -16,40 +16,40 @@ import random
 
 
 def merge_sort(arr: list):
-    merge__sort(arr, 0, len(arr) - 1)
+    mergeSort(arr, 0, len(arr) - 1)
 
 
-def merge__sort(arr: list, left: int, right: int):
+def mergeSort(arr: list, left: int, right: int):
     if left == right:
         return
     mid = left + ((right - left) >> 1)
-    merge__sort(arr, left, mid)
-    merge__sort(arr, mid + 1, right)
+    mergeSort(arr, left, mid)
+    mergeSort(arr, mid + 1, right)
     merge(arr, left, mid, right)
 
 
 def merge(arr: list, left: int, mid: int, right: int):
-    help_list = []
+    helpList = []
     temp, p1, p2 = 0, left, mid + 1
 
     while p1 <= mid and p2 <= right:
         if arr[p1] < arr[p2]:
-            help_list.append(arr[p1])
+            helpList.append(arr[p1])
             p1 += 1
         else:
-            help_list.append(arr[p2])
+            helpList.append(arr[p2])
             p2 += 1
 
     while p1 <= mid:
-        help_list.append(arr[p1])
+        helpList.append(arr[p1])
         p1 += 1
 
     while p2 <= right:
-        help_list.append(arr[p2])
+        helpList.append(arr[p2])
         p2 += 1
 
-    for j in range(len(help_list)):
-        arr[left + j] = help_list[j]
+    for j in range(len(helpList)):
+        arr[left + j] = helpList[j]
 
 
 if __name__ == '__main__':
@@ -66,5 +66,4 @@ if __name__ == '__main__':
             print(list2)
             print(list3)
             break
-
     print("Nice" if flag else "Fuck")

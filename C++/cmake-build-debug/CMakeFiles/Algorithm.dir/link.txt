@@ -1,3 +1,0 @@
-D:\Jetbrains\apps\CLion\ch-0\193.6015.37\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Algorithm.dir/objects.a
-D:\DevC++\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\Algorithm.dir/objects.a @CMakeFiles\Algorithm.dir\objects1.rsp
-D:\DevC++\Dev-Cpp\MinGW64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Algorithm.dir/objects.a -Wl,--no-whole-archive  -o Algorithm.exe -Wl,--out-implib,libAlgorithm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Algorithm.dir\linklibs.rsp
