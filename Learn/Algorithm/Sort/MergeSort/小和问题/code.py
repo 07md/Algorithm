@@ -14,14 +14,14 @@ import random
 
 
 def small_sum1(arr: list):
-    return mergesort(arr, 0, len(arr) - 1)
+    return mergeSort(arr, 0, len(arr) - 1)
 
 
-def mergesort(arr: list, left: int, right: int):
+def mergeSort(arr: list, left: int, right: int):
     if left == right:
         return 0
     mid = left + ((right - left) >> 1)
-    return mergesort(arr, left, mid) + mergesort(arr, mid + 1, right) + merge(arr, left, mid, right)
+    return mergeSort(arr, left, mid) + mergeSort(arr, mid + 1, right) + merge(arr, left, mid, right)
 
 
 def merge(arr: list, left: int, mid: int, right: int):

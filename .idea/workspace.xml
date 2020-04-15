@@ -28,62 +28,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-2-11">
-      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/01.topK/topK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/动图演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/排序算法.eddx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wechat.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/.idea/Algorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/Algorithm.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/Algorithm.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/BlueBridgeCup/Subject/2017/National__C_C++_B/1/code.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Algorithm.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Heap_Sort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Merge_sort/NoteBook.md" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/NoteBook.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Merge_sort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Merge_sort/小和问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/小和问题/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Quick_Sort/Random_Quick_Sort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/Quick_Sort/Random_Quick_Sort/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Bubble_Sort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Bubble_Sort/最大间隙问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/最大间隙问题/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/小和问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/小和问题/code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +48,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -113,11 +65,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Algorithm" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.topK">
     <configuration name="01.Hanoi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -256,7 +214,7 @@
       <workItem from="1583913686151" duration="3798000" />
       <workItem from="1584450428042" duration="599000" />
       <workItem from="1584686632959" duration="116000" />
-      <workItem from="1586835419327" duration="16815000" />
+      <workItem from="1586835419327" duration="30197000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -272,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586838513450</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020-4-14">
+      <created>1586879102524</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586879102524</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,10 +289,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586836518419" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1586838526528">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1586879106434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586838526528" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586879106434" />
     <state x="1920" y="78" width="1253" height="573" maximized="true" key="dock-window-1" timestamp="1581478446477">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
