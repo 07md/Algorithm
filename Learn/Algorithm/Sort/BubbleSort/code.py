@@ -17,13 +17,25 @@ def bubbleSort(arr: list):
 				arr[index], arr[index + 1] = arr[index + 1], arr[index]
 
 
+def bubbleSortV1(arr: list):
+	length = len(arr)
+	for trip in range(length):
+		exChange = False
+		for index in range(length - trip - 1):
+			if arr[index] > arr[index + 1]:
+				exChange = True
+				arr[index], arr[index + 1] = arr[index + 1], arr[index]
+		if not exChange:
+			break
+
+
 if __name__ == '__main__':
 	flag = True
 	for i in range(100):
 		list1 = [random.randint(0, 100) for _ in range(random.randint(0, 100))]
 		list2 = copy.deepcopy(list1)
 		list3 = copy.deepcopy(list1)
-		bubbleSort(list2)
+		bubbleSortV1(list2)
 		list3.sort()
 		if list2 != list3:
 			flag = False

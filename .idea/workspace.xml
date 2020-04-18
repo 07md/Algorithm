@@ -28,13 +28,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-2-11">
-      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/动图演示.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/排序算法.eddx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wechat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Greedy/01.找零问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Greedy/02.背包问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Greedy/03.活动选择问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BucketSort/动图演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/CountSort/动图演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/动图演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/InsertSort/动图演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/动图演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/动图演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/RadixSort/动图演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/SelectSort/动图演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/ShellSort/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/ShellSort/动图演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aside.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Bubble_Sort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Bubble_Sort/最大间隙问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/最大间隙问题/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/小和问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/小和问题/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Insert_Sort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/InsertSort/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Quick_Sort/NoteBook.md" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/NoteBook.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Quick_Sort/Random_Quick_Sort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/Random_Quick_Sort/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Quick_Sort/荷兰国旗问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/荷兰国旗问题/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/Select_Sort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/SelectSort/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/排序算法.eddx" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/排序算法.eddx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wechat.html" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +64,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -66,6 +83,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -77,29 +95,7 @@
       <recent name="G:\Algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.topK">
-    <configuration name="01.Hanoi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Recursion/01.Hanoi" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Recursion/01.Hanoi/01.Hanoi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.code (3)">
     <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,12 +104,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/InsertSort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/InsertSort/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/ShellSort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/ShellSort/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,12 +148,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2015/Province_C_C++_A/6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2015/Province_C_C++_A/6/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,12 +170,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/Heap_Sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/Heap_Sort/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="topK" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,12 +192,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/01.topK" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/01.topK/topK.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.topK" />
+        <item itemvalue="Python.code (3)" />
+        <item itemvalue="Python.code (2)" />
         <item itemvalue="Python.code (1)" />
         <item itemvalue="Python.code" />
-        <item itemvalue="Python.01.Hanoi" />
-        <item itemvalue="Python.code (3)" />
+        <item itemvalue="Python.temp" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +232,9 @@
       <workItem from="1583913686151" duration="3798000" />
       <workItem from="1584450428042" duration="599000" />
       <workItem from="1584686632959" duration="116000" />
-      <workItem from="1586835419327" duration="30197000" />
+      <workItem from="1586835419327" duration="54647000" />
+      <workItem from="1587097836836" duration="10465000" />
+      <workItem from="1587174852197" duration="1187000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -237,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586879102524</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2020-4-15">
+      <created>1586957994639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586957994640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,12 +280,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2020-2-11" />
     <MESSAGE value="2020-4-14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-4-14" />
+    <MESSAGE value="2020-4-15" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-4-15" />
   </component>
   <component name="WindowStateProjectService">
     <state x="348" y="1" key="CommitChangelistDialog2" timestamp="1581426179553">
@@ -269,34 +298,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1584686691284" />
-    <state width="1493" height="222" key="GridCell.Tab.0.bottom" timestamp="1586878794809">
+    <state width="1493" height="142" key="GridCell.Tab.0.bottom" timestamp="1587138361036">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586878794809" />
-    <state width="1493" height="222" key="GridCell.Tab.0.center" timestamp="1586878794809">
+    <state width="1493" height="142" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587138361036" />
+    <state width="1493" height="331" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587136286615" />
+    <state width="1493" height="142" key="GridCell.Tab.0.center" timestamp="1587138361035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586878794809" />
-    <state width="1493" height="222" key="GridCell.Tab.0.left" timestamp="1586878794809">
+    <state width="1493" height="142" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587138361035" />
+    <state width="1493" height="331" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
+    <state width="1493" height="142" key="GridCell.Tab.0.left" timestamp="1587138361035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586878794809" />
-    <state width="1493" height="222" key="GridCell.Tab.0.right" timestamp="1586878794809">
+    <state width="1493" height="142" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587138361035" />
+    <state width="1493" height="331" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
+    <state width="1493" height="142" key="GridCell.Tab.0.right" timestamp="1587138361035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586878794809" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1586836518419">
+    <state width="1493" height="142" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587138361035" />
+    <state width="1493" height="331" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1586997320315">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586836518419" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1586879106434">
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586997320315" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1586957996240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586879106434" />
-    <state x="1920" y="78" width="1253" height="573" maximized="true" key="dock-window-1" timestamp="1581478446477">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586957996240" />
+    <state x="1920" y="173" width="1215" height="482" key="dock-window-1" timestamp="1587137698898">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
-    <state x="1920" y="78" width="1253" height="573" maximized="true" key="dock-window-1/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581478446477" />
+    <state x="1920" y="173" width="1215" height="482" key="dock-window-1/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587137698898" />
     <state x="1960" y="183" width="1253" height="573" key="dock-window-2" timestamp="1581478643148">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
@@ -308,8 +341,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$01_Hanoi.coverage" NAME="01.Hanoi Coverage Results" MODIFIED="1586838142153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Recursion/01.Hanoi" />
-    <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1586868942749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort" />
-    <SUITE FILE_PATH="coverage/Algorithm$code.coverage" NAME="code Coverage Results" MODIFIED="1586868122465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Sort/Heap_Sort" />
+    <SUITE FILE_PATH="coverage/Algorithm$03_.coverage" NAME="03.活动选择问题 Coverage Results" MODIFIED="1587000000090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Greedy" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1587133332411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Sort/InsertSort" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1587137685667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Sort/ShellSort" />
+    <SUITE FILE_PATH="coverage/Algorithm$01_.coverage" NAME="01.找零问题 Coverage Results" MODIFIED="1586996611889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Greedy" />
     <SUITE FILE_PATH="coverage/Algorithm$topK.coverage" NAME="topK Coverage Results" MODIFIED="1586878727768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/01.topK" />
+    <SUITE FILE_PATH="coverage/Algorithm$temp.coverage" NAME="temp Coverage Results" MODIFIED="1587051046110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$code.coverage" NAME="code Coverage Results" MODIFIED="1587126480385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1587138361021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort" />
   </component>
 </project>
