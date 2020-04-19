@@ -16,34 +16,38 @@ import heapq
 import random
 
 
-def heapInsert(arr: list, index: int):
-    while arr[int((index - 1) / 2)] < arr[index]:
-        arr[int((index - 1) / 2)], arr[index] = arr[index], arr[int((index - 1) / 2)]
-        index = int((index - 1) / 2)
+def heapInsert(array: list, index: int):
+    while array[(index - 1) // 2] < array[index] and index > 0:
+        array[(index - 1) // 2], array[index] = array[index], array[(index - 1) // 2]
+        index = (index - 1) // 2
 
 
-def heapify(arr: list, index: int, size: int):
+def heapify(arr: list, index: int, length: int):
     left = 2 * index + 1
-    while left < size:
-        largest = left + 1 if (left + 1 < size) and (arr[left + 1] > arr[left]) else left
+    while left < length:
+        # 左右子节点中的最大值索引
+        largest = left + 1 if (left + 1 < length) and (arr[left + 1] > arr[left]) else left
+        # 节点与子节点中的最大值索引
         largest = largest if arr[largest] > arr[index] else index
         if largest == index:
+            # 如果节点即为最大值则无需继续调整
             break
         else:
+            # 否则交换节点与最大值节点
             arr[index], arr[largest] = arr[largest], arr[index]
             index = largest
             left = 2 * index + 1
 
 
-def heapSort(arr: list):
-    size = len(arr)
-    if size < 2:
+def heapSort(array: list):
+    length = len(array)
+    if length < 2:
         return
-    for index in range(size):
-        heapInsert(arr, index)
-    for index in range(size - 1, -1, -1):
-        arr[0], arr[index] = arr[index], arr[0]
-        heapify(arr, 0, index)
+    for index in range(1, length):
+        heapInsert(array, index)
+    for index in range(length - 1, -1, -1):
+        array[0], array[index] = array[index], array[0]
+        heapify(array, 0, index)
 
 
 def pythonHeap(arr: list):
