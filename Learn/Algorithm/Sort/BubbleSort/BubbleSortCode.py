@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time     : 2020/1/12 下午5:43
 # @Author   : alex
-# @File     : code.py
+# @File     : BubbleSortCode.py
 # @Project  : Algorithm
 # @Software : PyCharm
 import copy
@@ -13,6 +13,7 @@ def bubbleSort(arr: list):
 	length = len(arr)
 	for trip in range(length):
 		for index in range(length - trip - 1):
+			# 相邻的两个元素，如果顺序错误，就交换两个的位置
 			if arr[index] > arr[index + 1]:
 				arr[index], arr[index + 1] = arr[index + 1], arr[index]
 
@@ -20,11 +21,15 @@ def bubbleSort(arr: list):
 def bubbleSortV1(arr: list):
 	length = len(arr)
 	for trip in range(length):
+		# 交换标志
 		exChange = False
 		for index in range(length - trip - 1):
+			# 相邻的两个元素，如果顺序错误，就交换两个的位置
 			if arr[index] > arr[index + 1]:
+				# 如果有交换发生， 标记为 True
 				exChange = True
 				arr[index], arr[index + 1] = arr[index + 1], arr[index]
+		# 如果没有交换发生，说明数列已经有序了
 		if not exChange:
 			break
 

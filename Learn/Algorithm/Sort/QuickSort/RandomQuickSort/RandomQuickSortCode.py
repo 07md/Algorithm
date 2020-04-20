@@ -1,7 +1,7 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time     : 2020/1/14 下午9:58
-# @File     : code.py
+# @File     : BubbleSortCode.py
 # @Project  : Algorithm
 # @Software : PyCharm
 # ----------------------------------------------
@@ -23,12 +23,14 @@ def randomQuickSort(array: list):
 
 def _randomQuickSort(array: list, left: int, right: int):
     if left < right:
+        # less, more 分别表示与基准值相等的数列的左右边界
         less, more = partition(array, left, right, array[random.randint(left, right)])
         _randomQuickSort(array, left, less)
         _randomQuickSort(array, more, right)
 
 
 def partition(array: list, left: int, right: int, pivot: int):
+    """将比基准值小的数放在左边，相等的放中间，大的放右边"""
     less, more = left - 1, right + 1
     while left < more:
         if array[left] < pivot:

@@ -28,13 +28,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-2-11">
-      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BucketSort/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/CountSort/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/RadixSort/code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/Random_Quick_Sort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/RandomQuickSort/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeChat.html" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_B/1/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_B/1/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_B/3/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_B/3/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_B/6/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_B/6/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_B/7/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_B/7/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_B/8/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_B/8/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_C/4/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_C/4/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_C/6/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/Province_C_C++_C/6/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2015/Province_C_C++_A/6/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2015/Province_C_C++_A/6/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2016/Province_C_C++_C/1/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2016/Province_C_C++_C/1/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/BubbleSortCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/最大间隙问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BubbleSort/最大间隙问题/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/BucketSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/BucketSort/BucketSortCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/CountSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/CountSort/CountSortCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/HeapSortCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/InsertSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/InsertSort/InsertSortCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/MergeSortCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/小和问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/MergeSort/小和问题/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/RandomQuickSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/RandomQuickSort/RandomQuickSortCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/荷兰国旗问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/荷兰国旗问题/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/RadixSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/RadixSort/RadixSortCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/SelectSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/SelectSort/SelectSortCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/Sort/ShellSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/Sort/ShellSort/ShellSortCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/宏观调度/Find number in sorted matrix/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/宏观调度/Find number in sorted matrix/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/宏观调度/Print matrix zig zag/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/宏观调度/Print matrix zig zag/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/宏观调度/Rotate matrix/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/宏观调度/Rotate matrix/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/宏观调度/Spiral prider print matrix/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/宏观调度/Spiral prider print matrix/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Trie_Tree/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/数据结构/Tree/Trie_Tree/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Union_Find_Set/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/数据结构/Union_Find_Set/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Union_Find_Set/岛问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/数据结构/Union_Find_Set/岛问题/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/栈实现队列/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/数据结构/栈实现队列/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/1. Two Sum/1. Two Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Problems/1. Two Sum/1. Two Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +80,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="2c06357a-3bee-4795-ad08-73c733f8572f" />
   <component name="ProjectId" id="1XepwMnLsiU7XUZoKEQ4Q8PPC3L" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -81,8 +107,8 @@
       <recent name="G:\Algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code (2)">
-    <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.RadixSortCode">
+    <configuration name="BucketSortCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +121,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/BucketSort/code.py" />
+      <option name="SCRIPT_NAME" value="G:\Algorithm\Learn\Algorithm\Sort\BucketSort\BucketSortCode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,73 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/RadixSort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/RadixSort/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/RandomQuickSort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/RandomQuickSort/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="CountSortCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,7 +143,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/Sort/CountSort/code.py" />
+      <option name="SCRIPT_NAME" value="G:\Algorithm\Learn\Algorithm\Sort\CountSort\CountSortCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HeapSortCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:\Algorithm\Learn\Algorithm\Sort\HeapSort\HeapSortCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RadixSortCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/RadixSort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:\Algorithm\Learn\Algorithm\Sort\RadixSort\RadixSortCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomQuickSortCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/Sort/QuickSort/RandomQuickSort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:\Algorithm\Learn\Algorithm\Sort\QuickSort\RandomQuickSort\RandomQuickSortCode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.code (2)" />
-        <item itemvalue="Python.code (1)" />
-        <item itemvalue="Python.code" />
-        <item itemvalue="Python.code (5)" />
-        <item itemvalue="Python.code (4)" />
+        <item itemvalue="Python.RadixSortCode" />
+        <item itemvalue="Python.BucketSortCode" />
+        <item itemvalue="Python.CountSortCode" />
+        <item itemvalue="Python.HeapSortCode" />
+        <item itemvalue="Python.RandomQuickSortCode" />
       </list>
     </recent_temporary>
   </component>
@@ -222,6 +248,7 @@
       <workItem from="1587097836836" duration="10465000" />
       <workItem from="1587174852197" duration="9950000" />
       <workItem from="1587287653243" duration="57000" />
+      <workItem from="1587287726090" duration="11113000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -258,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587178562764</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020-4-19">
+      <created>1587287885829</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587287885829</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,9 +315,14 @@
     <MESSAGE value="2020-4-14" />
     <MESSAGE value="2020-4-15" />
     <MESSAGE value="2020-2-11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-2-11" />
+    <MESSAGE value="2020-4-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-4-19" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="53" key="#Plugins" timestamp="1587287730463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587287730463" />
     <state x="348" y="1" key="CommitChangelistDialog2" timestamp="1581426179553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -316,10 +355,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586997320315" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1587178851489">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1587287953457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587178851489" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587287953457" />
     <state x="1920" y="54" width="1207" height="597" maximized="true" key="dock-window-1" timestamp="1587183915593">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
@@ -328,10 +367,10 @@
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
     <state x="1957" y="60" width="1166" height="517" maximized="true" key="dock-window-2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587206764782" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587178849611">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587287951936">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587178849611" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587287951936" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$01_Hanoi.coverage" NAME="01.Hanoi Coverage Results" MODIFIED="1586838142153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Recursion/01.Hanoi" />

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time     : 2020/1/12 下午6:20
 # @Author   : alex
-# @File     : code.py
+# @File     : BubbleSortCode.py
 # @Project  : Algorithm
 # @Software : PyCharm
 import copy
