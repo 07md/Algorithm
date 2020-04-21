@@ -29,9 +29,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-2-11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/DynamicProgramming/LongestCommonSubsequence/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/DynamicProgramming/LongestCommonSubsequence/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/Algorithm/DynamicProgramming/NokiaProblem/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/Algorithm/DynamicProgramming/NokiaProblem/code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeChat.html" beforeDir="false" afterPath="$PROJECT_DIR$/WeChat.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +218,7 @@
       <workItem from="1587174852197" duration="9950000" />
       <workItem from="1587287653243" duration="57000" />
       <workItem from="1587287726090" duration="11113000" />
-      <workItem from="1587342729449" duration="27282000" />
+      <workItem from="1587342729449" duration="28639000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -286,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587399449322</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2020-4-21">
+      <created>1587476138813</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587476138814</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,7 +315,8 @@
     <MESSAGE value="2020-2-11" />
     <MESSAGE value="2020-4-19" />
     <MESSAGE value="2020-4-20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-4-20" />
+    <MESSAGE value="2020-4-21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-4-21" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="53" key="#Plugins" timestamp="1587287730463">
@@ -326,25 +331,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1584686691284" />
-    <state width="1493" height="222" key="GridCell.Tab.0.bottom" timestamp="1587475941239">
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom" timestamp="1587476203546">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587475941239" />
+    <state width="1493" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587476203546" />
     <state width="1493" height="331" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587136286615" />
-    <state width="1493" height="222" key="GridCell.Tab.0.center" timestamp="1587475941238">
+    <state width="1493" height="222" key="GridCell.Tab.0.center" timestamp="1587476203543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587475941238" />
+    <state width="1493" height="222" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587476203543" />
     <state width="1493" height="331" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
-    <state width="1493" height="222" key="GridCell.Tab.0.left" timestamp="1587475941238">
+    <state width="1493" height="222" key="GridCell.Tab.0.left" timestamp="1587476203542">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587475941238" />
+    <state width="1493" height="222" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587476203542" />
     <state width="1493" height="331" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
-    <state width="1493" height="222" key="GridCell.Tab.0.right" timestamp="1587475941238">
+    <state width="1493" height="222" key="GridCell.Tab.0.right" timestamp="1587476203544">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587475941238" />
+    <state width="1493" height="222" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587476203544" />
     <state width="1493" height="331" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587355691403">
       <screen x="0" y="0" width="1536" height="824" />
@@ -366,10 +371,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586997320315" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1587399451312">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1587476141470">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587399451312" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587476141470" />
     <state x="1920" y="0" width="1136" height="811" maximized="true" key="dock-window-1" timestamp="1587350957607">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
