@@ -12,33 +12,50 @@
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆
 
 
-def LCS(A: str, B: str):
-    lengthA, lengthB = len(A), len(B)
-    dp = [[0 for _ in range(lengthA)] for _ in range(lengthB)]
-    for i in range(lengthA):
-        if A[i] == B[0]:
-            dp[i][0] = 1
-            for j in range(i + 1, lengthB):
-                dp[j][0] = 1
-            break
-    for i in range(lengthB):
-        if B[i] == A[0]:
-            dp[0][i] = 1
-            for j in range(i + 1, lengthB):
-                dp[0][j] = 1
-            break
-    for i in range(1, lengthA):
-        for j in range(1, lengthB):
-            if A[i] == B[j]:
-                dp[i][j] = 1 + dp[i - 1][j - 1]
-            else:
-                dp[i][j] = max(dp[i][j - 1], dp[i - 1][j])
-    for i in range(lengthA):
-        for j in range(lengthB):
-            print(dp[i][j], end=" ")
-        print()
-    return dp[lengthA - 1][lengthB - 1]
+def LcsTraceBack(dp, directions, string, length1, length2):
+	s = []
+	# dp数组不为None时
+	while dp[length1][length2]:
+		char = directions[length1][length2]
+		# 匹配成功，插入该字符，并向左上角找下一个
+		if char == 'ok':
+			s.append(string[length1 - 1])
+			length1 -= 1
+			length2 -= 1
+		# 根据标记，向左找下一个
+		if char == 'left':
+			length2 -= 1
+		# 根据标记，向上找下一个
+		if char == 'up':
+			length1 -= 1
+	s.reverse()
+	return ''.join(s)
+
+
+def Lcs(str1, str2):
+	length1, length2 = len(str1), len(str2)
+	# 生成字符串长度加1的0矩阵DP用来保存对应位置匹配的结果
+	DP = [[0 for _ in range(length2 + 1)] for _ in range(length1 + 1)]
+	# direction用来记录转移方向
+	directions = [['' for _ in range(length2 + 1)] for _ in range(length1 + 1)]
+
+	for p1 in range(length1):
+		for p2 in range(length2):
+			# 字符匹配成功，则该位置的值为左上方的值加1
+			if str1[p1] == str2[p2]:
+				DP[p1 + 1][p2 + 1] = DP[p1][p2] + 1
+				directions[p1 + 1][p2 + 1] = 'ok'
+			# 左值大于上值，则该位置的值为左值，并标记回溯时的方向为left
+			elif DP[p1 + 1][p2] > DP[p1][p2 + 1]:
+				DP[p1 + 1][p2 + 1] = DP[p1 + 1][p2]
+				directions[p1 + 1][p2 + 1] = 'left'
+			# 上值大于左值，则该位置的值为上值，并标记回溯时的方向为up
+			else:
+				DP[p1 + 1][p2 + 1] = DP[p1][p2 + 1]
+				directions[p1 + 1][p2 + 1] = 'up'
+	return LcsTraceBack(DP, directions, str1, length1, length2), directions
 
 
 if __name__ == '__main__':
-    LCS("android", "random")
+	answer, direction = Lcs('ABCBDAB', 'BDCABA')
+	print(answer)
