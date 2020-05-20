@@ -12,40 +12,37 @@
 
 
 class Node:
-    left = None
-    right = None
-
     def __init__(self, value=None):
-        self.value = value
+        self.value, self.left, self.right = value, None, None
 
-    def pre_order_recursive(self):
+    def preOrderRecursive(self):
         if self is None:
             return
         print(self.value, end=' ')
         if self.left:
-            self.left.pre_order_recursive()
+            self.left.preOrderRecursive()
         if self.right:
-            self.right.pre_order_recursive()
+            self.right.preOrderRecursive()
 
-    def in_order_recursive(self):
+    def inOrderRecursive(self):
         if self is None:
             return
         if self.left:
-            self.left.in_order_recursive()
+            self.left.inOrderRecursive()
         print(self.value, end=' ')
         if self.right:
-            self.right.in_order_recursive()
+            self.right.inOrderRecursive()
 
-    def pos_order_recursive(self):
+    def posOrderRecursive(self):
         if self is None:
             return
         if self.left:
-            self.left.pos_order_recursive()
+            self.left.posOrderRecursive()
         if self.right:
-            self.right.pos_order_recursive()
+            self.right.posOrderRecursive()
         print(self.value, end=' ')
 
-    def pre_order_loop(self):
+    def preOrderLoop(self):
         print("pre order loop: ", end='')
         stack = [self]
         while stack:
@@ -57,7 +54,7 @@ class Node:
                 stack.append(temp.left)
         print()
 
-    def in_order_loop(self):
+    def inOrderLoop(self):
         print("in order loop: ", end='')
         if self is not None:
             stack = []
@@ -72,7 +69,7 @@ class Node:
                     temp = temp.right
         print()
 
-    def pos_order_loop(self):
+    def posOrderLoop(self):
         """
         前序遍历的次序是：中左右
         后续遍历的次序是：左右中
@@ -104,16 +101,16 @@ if __name__ == '__main__':
 
     print("==============recursive==============")
     print("pre order recursive: ", end='')
-    head.pre_order_recursive()
+    head.preOrderRecursive()
     print()
     print("in order recursive: ", end='')
-    head.in_order_recursive()
+    head.inOrderRecursive()
     print()
     print("pos order recursive: ", end='')
-    head.pos_order_recursive()
+    head.posOrderRecursive()
     print()
 
     print("============no recursive=============")
-    head.pre_order_loop()
-    head.in_order_loop()
-    head.pos_order_loop()
+    head.preOrderLoop()
+    head.inOrderLoop()
+    head.posOrderLoop()
