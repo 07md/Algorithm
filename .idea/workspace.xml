@@ -27,73 +27,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-2-11">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/KMP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_01_GetMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_02_HanoiProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_03_LongestPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_05_IsBalancedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_06_T1ContainsT2Topology.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_07_ExpressionCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_08_MaxDistanceInTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_01_LeastRecentlyUsedCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_02_Building_Outline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_03_FindNewTypeChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_04_TrieTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_05_EnglishExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_06_ChineseExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_07_ThrowChessPiecesProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/AbstractBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/AbstractSelfBalancingBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/Code_01_MorrisTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/Code_02_SkipList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/RedBlackTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_01_Building_Outline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_02_LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_03_LFU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_04_BiggestSubBSTInTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_05_LongestSumSubArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_06_Most_EOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_07_ExpressionCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_01_MinPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_02_LIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_03_LCSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_04_LCSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_05_EditCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_06_PalindromeMinCut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_07_StringCross.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_08_ParenthesesProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_01_TopKSumCrossTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_02_MaxSubMatrixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_03_MaxOneBorderSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_04_FibonacciProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_05_LongestNoRepeatSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_06_ShuffleProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_01_IsBSTAndCBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_02_IsBalancedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_03_MaxDistanceInTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_04_MaxHappy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_05_Max_EOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_06_CompleteTreeNodeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_01_CoinsWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_02_CardsInLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_03_RegularExpressionMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_04_LongestSumSubArrayLengthInPositiveArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_05_LongestSubarrayLessSumAwesomeSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_06_JosephusProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/152. Maximum Product Subarray/152. Maximum Product Subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/210. Course Schedule II/210. Course Schedule II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/983. Minimum Cost For Tickets/983. Minimum Cost For Tickets.py" afterDir="false" />
+    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-5-20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/1.二叉树遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/1.二叉树遍历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/3.序列化与反序列化.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/3.序列化与反序列化.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班1、2节代码.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班3、4节代码.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班7、8节代码.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/1371. Find the Longest Substring Containing Vowels in Even Counts/1371. Find the Longest Substring Containing Vowels in Even Counts.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Problems/1371. Find the Longest Substring Containing Vowels in Even Counts/1371. Find the Longest Substring Containing Vowels in Even Counts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/5. Longest Palindromic Substring/5. Longest Palindromic Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Problems/5. Longest Palindromic Substring/5. Longest Palindromic Substring.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +78,7 @@
       <recent name="G:\Algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.152. Maximum Product Subarray">
+  <component name="RunManager" selected="Python.5. Longest Palindromic Substring">
     <configuration name="152. Maximum Product Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,6 +145,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5. Longest Palindromic Substring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/5. Longest Palindromic Substring" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/5. Longest Palindromic Substring/5. Longest Palindromic Substring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="KMP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,35 +189,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Algorithm/DynamicProgramming/NokiaProblem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Algorithm/DynamicProgramming/NokiaProblem/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5. Longest Palindromic Substring" />
         <item itemvalue="Python.152. Maximum Product Subarray" />
         <item itemvalue="Python.3.序列化与反序列化" />
         <item itemvalue="Python.1.二叉树遍历" />
         <item itemvalue="Python.KMP" />
-        <item itemvalue="Python.code" />
       </list>
     </recent_temporary>
   </component>
@@ -290,6 +227,8 @@
       <workItem from="1589725392499" duration="3387000" />
       <workItem from="1589807985745" duration="2845000" />
       <workItem from="1589899070743" duration="1695000" />
+      <workItem from="1589982278599" duration="2473000" />
+      <workItem from="1590068650351" duration="2957000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -368,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587480698109</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2020-5-20">
+      <created>1589982422815</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589982422815</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,40 +340,37 @@
     <MESSAGE value="2020-4-19" />
     <MESSAGE value="2020-4-20" />
     <MESSAGE value="2020-4-21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-4-21" />
+    <MESSAGE value="2020-5-20" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-5-20" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="53" key="#Plugins" timestamp="1587287730463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="53" key="#Plugins/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587287730463" />
-    <state x="348" y="1" key="CommitChangelistDialog2" timestamp="1581426179553">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="348" y="1" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1581426179553" />
     <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1584686691284">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1584686691284" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1589811930323">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1590070688554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1589811930323" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1590070688554" />
     <state width="1493" height="331" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587136286615" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1589811930323">
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1590070688554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1589811930323" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1590070688554" />
     <state width="1493" height="331" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1589811930323">
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1590070688553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1589811930323" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1590070688553" />
     <state width="1493" height="331" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1589811930323">
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1590070688554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1589811930323" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1590070688554" />
     <state width="1493" height="331" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587532978748">
       <screen x="0" y="0" width="1536" height="824" />
@@ -449,10 +392,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586997320315" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1587480699886">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589982424912">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587480699886" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1589982424912" />
     <state x="2141" y="69" width="1126" height="575" maximized="true" key="dock-window-1" timestamp="1587564984922">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
@@ -474,6 +417,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$01_.coverage" NAME="01.找零问题 Coverage Results" MODIFIED="1586996611889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Greedy" />
     <SUITE FILE_PATH="coverage/Algorithm$3.coverage" NAME="3 Coverage Results" MODIFIED="1587386824601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$KMP.coverage" NAME="KMP Coverage Results" MODIFIED="1587562256105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree" />
+    <SUITE FILE_PATH="coverage/Algorithm$5__Longest_Palindromic_Substring.coverage" NAME="5. Longest Palindromic Substring Coverage Results" MODIFIED="1590069140655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/5. Longest Palindromic Substring" />
     <SUITE FILE_PATH="coverage/Algorithm$topK.coverage" NAME="topK Coverage Results" MODIFIED="1586878727768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/01.topK" />
     <SUITE FILE_PATH="coverage/Algorithm$temp.coverage" NAME="temp Coverage Results" MODIFIED="1587051046110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$01_Hanoi.coverage" NAME="01.Hanoi Coverage Results" MODIFIED="1586838142153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Recursion/01.Hanoi" />
