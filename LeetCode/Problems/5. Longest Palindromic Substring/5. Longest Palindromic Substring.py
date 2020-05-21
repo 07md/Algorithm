@@ -45,22 +45,20 @@ class Solution:
 				right += 1
 			return (right - left - 2) // 2
 
-		end, start = -1, 0
-		s = '#' + '#'.join(list(s)) + '#'
 		arm_len = []
-		right = -1
-		j = -1
+		start, end, C, R = 0, -1, -1, -1
+		s = '#' + '#'.join(list(s)) + '#'
 		for i in range(len(s)):
-			if right >= i:
-				i_sym = 2 * j - i
-				min_arm_len = min(arm_len[i_sym], right - i)
+			if R >= i:
+				i_mirror = 2 * C - i
+				min_arm_len = min(arm_len[i_mirror], R - i)
 				cur_arm_len = expand(s, i - min_arm_len, i + min_arm_len)
 			else:
 				cur_arm_len = expand(s, i, i)
 			arm_len.append(cur_arm_len)
-			if i + cur_arm_len > right:
-				j = i
-				right = i + cur_arm_len
+			if i + cur_arm_len > R:
+				C = i
+				R = i + cur_arm_len
 			if 2 * cur_arm_len + 1 > end - start:
 				start = i - cur_arm_len
 				end = i + cur_arm_len

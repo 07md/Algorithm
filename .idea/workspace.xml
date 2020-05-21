@@ -27,11 +27,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-5-20">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/1371. Find the Longest Substring Containing Vowels in Even Counts/1371. Find the Longest Substring Containing Vowels in Even Counts.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Problems/1371. Find the Longest Substring Containing Vowels in Even Counts/1371. Find the Longest Substring Containing Vowels in Even Counts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/5. Longest Palindromic Substring/5. Longest Palindromic Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Problems/5. Longest Palindromic Substring/5. Longest Palindromic Substring.py" afterDir="false" />
-    </list>
+    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-5-21" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +224,7 @@
       <workItem from="1589807985745" duration="2845000" />
       <workItem from="1589899070743" duration="1695000" />
       <workItem from="1589982278599" duration="2473000" />
-      <workItem from="1590068650351" duration="2957000" />
+      <workItem from="1590068650351" duration="3304000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -314,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589982422815</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2020-5-21">
+      <created>1590074787363</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590074787363</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +344,8 @@
     <MESSAGE value="2020-4-20" />
     <MESSAGE value="2020-4-21" />
     <MESSAGE value="2020-5-20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-5-20" />
+    <MESSAGE value="2020-5-21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-5-21" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="53" key="#Plugins" timestamp="1587287730463">
@@ -392,10 +396,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1586997320315" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589982424912">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1590074842074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1589982424912" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1590074842074" />
     <state x="2141" y="69" width="1126" height="575" maximized="true" key="dock-window-1" timestamp="1587564984922">
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
@@ -404,10 +408,10 @@
       <screen x="1920" y="0" width="1440" height="860" />
     </state>
     <state x="1920" y="11" width="1126" height="575" maximized="true" key="dock-window-2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587569097203" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587287951936">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590074840298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1587287951936" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1590074840298" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$03_.coverage" NAME="03.活动选择问题 Coverage Results" MODIFIED="1587000000090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Greedy" />
