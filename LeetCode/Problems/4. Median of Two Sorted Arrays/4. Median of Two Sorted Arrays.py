@@ -25,9 +25,31 @@ from typing import List
 
 
 class Solution:
-    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+    def findMedianSortedArrays_violence(self, nums1: List[int], nums2: List[int]) -> float:
         nums3 = sorted(nums1 + nums2)
-        return nums3[int(len(nums3) / 2)] if len(nums3) % 2 else (nums3[int(len(nums3) / 2)] + nums3[int(len(nums3) / 2 - 1)]) / 2
+        return nums3[int(len(nums3) / 2)] if len(nums3) % 2 else (nums3[int(len(nums3) / 2)] + nums3[
+            int(len(nums3) / 2 - 1)]) / 2
 
-a = Solution()
-print(a.findMedianSortedArrays([1, 2], [3, 4]))
+    def findMedianSortedArrays_binary(self, nums1: List[int], nums2: List[int]) -> float:
+        if len(nums1) > len(nums2):
+            return self.findMedianSortedArrays_binary(nums2, nums1)
+
+        m, n = len(nums1), len(nums2)
+        left, right, maxNumber = 0, m, 2 ** 19
+        maxLeft, minRight = 0, 0
+
+        while left <= right:
+            i = (left + right) // 2
+            j = (m + n + 1) // 2 - i
+            nums_i_1 = -maxNumber if i == 0 else nums1[i - 1]
+            nums_i = maxNumber if i == m else nums1[i]
+            nums_j_1 = -maxNumber if j == 0 else nums2[j - 1]
+            nums_j = maxNumber if j == n else nums2[j]
+
+            if nums_i_1 <= nums_j:
+                left = i + 1
+                maxLeft, minRight = max(nums_i_1, nums_j_1), min(nums_i, nums_j)
+            else:
+                right = i - 1
+
+        return (maxLeft + minRight) / 2 if (m + n) % 2 == 0 else maxLeft
