@@ -57,5 +57,5 @@ def Lcs(str1, str2):
 
 
 if __name__ == '__main__':
-	answer, direction = Lcs('ABCBDAB', 'BDCABA')
+	answer, direction = Lcs('32145', '12345')
 	print(answer)
