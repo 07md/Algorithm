@@ -34,11 +34,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-7-21">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_7_21_10_48_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_7_21_10_48__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/National _C_C++_A/1/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/National _C_C++_A/2/code.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/National _C_C++_A/2/code.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/National _C_C++_A/2/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/剑指 Offer/11. 旋转数组的最小数字  LCOF/code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/面试题 02.01. 移除重复节点/面试题 02.01. 移除重复节点.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/面试题/面试题 02.01. 移除重复节点/面试题 02.01. 移除重复节点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/面试题 16.11. 跳水板/面试题 16.11. 跳水板.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/面试题/面试题 16.11. 跳水板/面试题 16.11. 跳水板.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/面试题 16.18. 模式匹配/面试题 16.18. 模式匹配.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/面试题/面试题 16.18. 模式匹配/面试题 16.18. 模式匹配.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/面试题 17.13. 恢复空格/面试题 17.13. 恢复空格.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/面试题/面试题 17.13. 恢复空格/面试题 17.13. 恢复空格.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/面试题29. 顺时针打印矩阵/面试题29. 顺时针打印矩阵.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/面试题/面试题29. 顺时针打印矩阵/面试题29. 顺时针打印矩阵.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Problems/面试题64. 求1+2+…+n/面试题64. 求1+2+…+n.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/面试题/面试题64. 求1+2+…+n/面试题64. 求1+2+…+n.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,17 +88,18 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Algorithm\LeetCode\面试题" />
+      <recent name="G:\Algorithm\Virtual Judge\51Nod\1006.最长公共子序列Lcs" />
+      <recent name="G:\Algorithm" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Algorithm\BlueBridgeCup\Subject\2019-" />
       <recent name="G:\Algorithm\Learn\Algorithm\Sort\RadixSort" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\Algorithm\Virtual Judge\51Nod\1006.最长公共子序列Lcs" />
-      <recent name="G:\Algorithm" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.code (4)">
-    <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.code (5)">
+    <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,12 +107,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/Province_C_C++_B/7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/National _C_C++_A/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/Province_C_C++_B/7/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/National _C_C++_A/1/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,12 +173,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/Province_C_C++_B/6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/National _C_C++_A/2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/Province_C_C++_B/6/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/National _C_C++_A/2/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code (5)" />
+        <item itemvalue="Python.code (1)" />
         <item itemvalue="Python.code (4)" />
         <item itemvalue="Python.code (3)" />
         <item itemvalue="Python.code" />
-        <item itemvalue="Python.code (2)" />
-        <item itemvalue="Python.code (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +334,9 @@
       <workItem from="1595153044740" duration="225000" />
       <workItem from="1595203677263" duration="4690000" />
       <workItem from="1595241269394" duration="44000" />
-      <workItem from="1595292625806" duration="7316000" />
+      <workItem from="1595292625806" duration="7481000" />
+      <workItem from="1595303660569" duration="45000" />
+      <workItem from="1595378471688" duration="8677000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -468,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595299684461</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2020-7-21">
+      <created>1595301260525</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1595301260525</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,28 +553,28 @@
     </state>
     <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1593319030290" />
     <state x="2434" y="160" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1590819940716" />
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1595299723469">
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1595389426145">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595299723469" />
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595389426145" />
     <state width="1397" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1591838372277" />
     <state width="1493" height="331" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587136286615" />
-    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1595299723468">
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1595389426144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595299723468" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595389426144" />
     <state width="1397" height="224" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1591838372277" />
     <state width="1493" height="331" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
-    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1595299723468">
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1595389426144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595299723468" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595389426144" />
     <state width="1397" height="224" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1591838372276" />
     <state width="1493" height="331" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
-    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1595299723468">
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1595389426144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595299723468" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595389426144" />
     <state width="1397" height="224" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1591838372277" />
     <state width="1493" height="331" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587136286613" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591430898255">
@@ -580,10 +597,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595299789744" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595299686005">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595301262167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595299686005" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1595301262167" />
     <state x="2258" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1590075135381" />
     <state x="527" y="256" key="cloudConfig.PluginsDialog" timestamp="1595042928295">
       <screen x="0" y="0" width="1536" height="824" />
@@ -618,7 +635,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$152__Maximum_Product_Subarray.coverage" NAME="152. Maximum Product Subarray Coverage Results" MODIFIED="1589811620825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/152. Maximum Product Subarray" />
     <SUITE FILE_PATH="coverage/Algorithm$1006_Lcs.coverage" NAME="1006.最长公共子序列Lcs Coverage Results" MODIFIED="1594094963631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Virtual Judge/51Nod/1006.最长公共子序列Lcs" />
     <SUITE FILE_PATH="coverage/Algorithm$974__Subarray_Sums_Divisible_by_K.coverage" NAME="974. Subarray Sums Divisible by K Coverage Results" MODIFIED="1590546212883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/974. Subarray Sums Divisible by K" />
-    <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1595205412661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/Province_C_C++_B/5" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1595382735576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/National _C_C++_A/1" />
     <SUITE FILE_PATH="coverage/Algorithm$3.coverage" NAME="3 Coverage Results" MODIFIED="1587386824601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$KMP.coverage" NAME="KMP Coverage Results" MODIFIED="1587562256105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree" />
     <SUITE FILE_PATH="coverage/Algorithm$76__Minimum_Window_Substring.coverage" NAME="76. Minimum Window Substring Coverage Results" MODIFIED="1590198969447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/76. Minimum Window Substring" />
@@ -628,7 +645,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$1.coverage" NAME="1 Coverage Results" MODIFIED="1587385359045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$63__Unique_Paths_II.coverage" NAME="63. Unique Paths II Coverage Results" MODIFIED="1593997937731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/63. Unique Paths II" />
     <SUITE FILE_PATH="coverage/Algorithm$4.coverage" NAME="4 Coverage Results" MODIFIED="1587384727053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$code__5_.coverage" NAME="code (5) Coverage Results" MODIFIED="1595205432675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/Province_C_C++_B/6" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__5_.coverage" NAME="code (5) Coverage Results" MODIFIED="1595389426123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/National _C_C++_A/2" />
     <SUITE FILE_PATH="coverage/Algorithm$15__3Sum.coverage" NAME="15. 3Sum Coverage Results" MODIFIED="1591929667188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/15. 3Sum" />
     <SUITE FILE_PATH="coverage/Algorithm$29__.coverage" NAME="面试题29. 顺时针打印矩阵 Coverage Results" MODIFIED="1591321288178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/面试题29. 顺时针打印矩阵" />
     <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="太极 Coverage Results" MODIFIED="1590743731172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
