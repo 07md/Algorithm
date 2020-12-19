@@ -33,38 +33,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-11-5">
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/历届试题/PREV-25-城市建设.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/历届试题/PREV-40-k倍区间.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/历届试题/PREV-51-观光铁路.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Exercises/历届试题/PREV-53-分考场.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_A/A/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_A/A/inc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_A/B/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_A/B/trip.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_A/D/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_A/F/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_B/1/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_B/2/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_B/CB/problemCB.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_C/C/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_C/D/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_C/D/trip.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_C/F/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_G/C/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_C_C++_G/C/trip.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_Java_A/E/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_Java_C/A/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_Java_C/B/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_Java_C/B/inc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_Java_C/C/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2019-/National_Java_C/H/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/134. Gas Station/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/1356. Sort Integers by The Number of 1 Bits/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/31. Next Permutation/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/327. Count of Range Sum/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/621. Task Scheduler/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/842. Split Array into Fibonacci Sequence/code.py" afterDir="false" />
+    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-12-8">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/62. Unique Paths/code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +74,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="E:/WebTagging/Backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Paper" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -436,6 +406,11 @@
       <workItem from="1605708740153" duration="1803000" />
       <workItem from="1607143590723" duration="2559000" />
       <workItem from="1607398752474" duration="2281000" />
+      <workItem from="1607402270984" duration="247000" />
+      <workItem from="1607402614869" duration="28000" />
+      <workItem from="1607486161001" duration="17000" />
+      <workItem from="1607911301320" duration="70000" />
+      <workItem from="1607990755650" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -633,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604546806624</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="2020-12-8">
+      <created>1607402293932</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607402293932</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -684,97 +666,8 @@
     <MESSAGE value="2020-8-18" />
     <MESSAGE value="2020-10-30" />
     <MESSAGE value="2020-11-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-11-5" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1235" y="193" key="FileChooserDialogImpl" timestamp="1604583590154">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1235" y="193" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603427428763" />
-    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1597450146623" />
-    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603786658956" />
-    <state x="-1235" y="193" key="FileChooserDialogImpl/1920.0.1440.850/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604583590154" />
-    <state x="548" y="153" key="FileChooserDialogImpl/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1603336156122" />
-    <state x="2605" y="191" key="FileChooserDialogImpl/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1603151860847" />
-    <state x="548" y="155" key="FileChooserDialogImpl/1920.0.1920.1042/0.0.1536.834@0.0.1536.834" timestamp="1601699682649" />
-    <state x="-1235" y="444" width="637" height="160" key="GitCloneDialog" timestamp="1603425028211">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1235" y="444" width="637" height="160" key="GitCloneDialog/0.0.1536.824/1920.0.1440.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603425028211" />
-    <state x="2605" y="440" width="637" height="160" key="GitCloneDialog/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1603151809846" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1605277191955">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605277191955" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/-1920.0.1920.1030/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1604462965588" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1597713307796" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604456285978" />
-    <state width="1877" height="278" key="GridCell.Tab.0.bottom/1920.0.1440.850/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605019756312" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/1920.0.1440.850/0.0.1536.824@0.0.1536.824" timestamp="1604024941891" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1603270499658" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1602858409891" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1605277191954">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.center/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605277191954" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center/-1920.0.1920.1030/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1604462965588" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1597713307796" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604456285977" />
-    <state width="1877" height="278" key="GridCell.Tab.0.center/1920.0.1440.850/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605019756312" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center/1920.0.1440.850/0.0.1536.824@0.0.1536.824" timestamp="1604024941891" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1603270499658" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1602858409891" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1605277191954">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.left/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605277191954" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left/-1920.0.1920.1030/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1604462965587" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1597713307796" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604456285977" />
-    <state width="1877" height="278" key="GridCell.Tab.0.left/1920.0.1440.850/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605019756312" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left/1920.0.1440.850/0.0.1536.824@0.0.1536.824" timestamp="1604024941890" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1603270499657" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1602858409891" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1605277191954">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="278" key="GridCell.Tab.0.right/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605277191954" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right/-1920.0.1920.1030/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1604462965588" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1597713307796" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604456285977" />
-    <state width="1877" height="278" key="GridCell.Tab.0.right/1920.0.1440.850/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605019756312" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right/1920.0.1440.850/0.0.1536.824@0.0.1536.824" timestamp="1604024941891" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1603270499658" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1602858409891" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604451016449">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604451016449" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604451016449">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604451016449" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604451016447">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604451016447" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604451016449">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604451016449" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1597713496108">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1597713496108" />
-    <state x="-1469" y="183" key="Vcs.Push.Dialog.v2" timestamp="1604546811595">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1597713736525" />
-    <state x="-1469" y="183" key="Vcs.Push.Dialog.v2/1920.0.1440.850/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604546811595" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597713734725">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1597713734725" />
+    <MESSAGE value="2020-12-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-12-8" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1605710540137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/134. Gas Station" />
