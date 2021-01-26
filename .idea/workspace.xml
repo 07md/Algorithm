@@ -34,13 +34,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-12-20">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/135. Candy/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/205. Isomorphic Strings/code.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/330. Patching Array/code.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/455. Assign Cookies/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/746. Min Cost Climbing Stairs/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/85. Maximal Rectangle/code.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/数据结构/Stack/stack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/stlStack.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/数据结构/Stack/stlStack.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -431,6 +427,7 @@
       <workItem from="1608805603956" duration="5018000" />
       <workItem from="1608859295212" duration="2575000" />
       <workItem from="1609205387853" duration="200000" />
+      <workItem from="1611629364125" duration="701000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
