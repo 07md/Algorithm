@@ -1,10 +1,7 @@
 class UnionFindSet:
     def __init__(self, n: int):
         self.count = n
-        self.father, self.size = dict(), dict()
-        for i in range(n):
-            self.size[i] = 1
-            self.father[i] = i
+        self.father, self.size = [i for i in range(n)], [1] * n
 
     def find(self, x: int) -> int:
         root = x
