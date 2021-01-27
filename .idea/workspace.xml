@@ -33,10 +33,49 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2020-12-20">
+    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-1-26">
+      <change afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/数据结构/Stack/stack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/stlStack.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/数据结构/Stack/stlStack.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Graph/Topological Sorting/Topological Sorting.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/Topological Sorting.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Graph/Topological Sorting/WeChat Screenshot_20210113173918.png" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/WeChat Screenshot_20210113173918.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Graph/Topological Sorting/code.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/code.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Graph/Topological Sorting/code.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/code.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Graph/Topological Sorting/template.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/template.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Graph/Topological Sorting/template.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/template.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Queue/迷宫问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Queue/迷宫问题/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/Stack.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Stack/Stack.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/images/shareStack.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Stack/images/shareStack.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/images/shareStack.png" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Stack/images/shareStack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/linkStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Stack/linkStack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/shareStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Stack/shareStack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Stack/stack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/stlStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Stack/stlStack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/stlStack.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Stack/stlStack.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Stack/迷宫问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Stack/迷宫问题/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/1.二叉树遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/Binary_Tree/1.二叉树遍历.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/2.前驱后继节点.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/Binary_Tree/2.前驱后继节点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/3.序列化与反序列化.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/Binary_Tree/3.序列化与反序列化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/4.验证平衡二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/Binary_Tree/4.验证平衡二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/5.验证搜索二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/Binary_Tree/5.验证搜索二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/6.验证完全二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/Binary_Tree/6.验证完全二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/7.完全二叉树节点个数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/Binary_Tree/7.完全二叉树节点个数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree/KMP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/Binary_Tree/KMP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/Tree/Trie_Tree/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/Trie_Tree/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/Union Find Set.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/Union Find Set.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/images/031047279682220.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/images/031047279682220.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/images/1283325_190152_1_lit.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/images/1283325_190152_1_lit.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/images/16f5df0a4a87b7f5_600_0.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/images/16f5df0a4a87b7f5_600_0.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/images/2019112810120902210.png" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/images/2019112810120902210.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/images/QQ截图20210113163609.png" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/images/QQ截图20210113163609.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/images/WeChat Screenshot_20210114191259.png" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/images/WeChat Screenshot_20210114191259.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/images/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/images/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/template.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/template.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/UnionFindSet/岛问题/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/UnionFindSet/岛问题/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/栈实现队列/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/栈实现队列/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/数据结构/线性表/LinkedList/DoubleLinkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/线性表/LinkedList/DoubleLinkedList.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +122,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Paper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AI/stargan-v2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -105,7 +144,7 @@
       <recent name="G:\Algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code (1)">
+  <component name="RunManager" selected="Python.template">
     <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,34 +153,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/455. Assign Cookies" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/1579. Remove Max Number of Edges to Keep Graph Fully Traversable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/455. Assign Cookies/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/48. Rotate Image" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/48. Rotate Image/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/1579. Remove Max Number of Edges to Keep Graph Fully Traversable/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,13 +233,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="template" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree/template.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.template" />
+        <item itemvalue="Python.code (1)" />
         <item itemvalue="Python.code" />
         <item itemvalue="Python.code (5)" />
         <item itemvalue="Python.code (4)" />
-        <item itemvalue="Python.code (3)" />
-        <item itemvalue="Python.code (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +466,8 @@
       <workItem from="1608805603956" duration="5018000" />
       <workItem from="1608859295212" duration="2575000" />
       <workItem from="1609205387853" duration="200000" />
-      <workItem from="1611629364125" duration="701000" />
+      <workItem from="1611629364125" duration="1546000" />
+      <workItem from="1611670078627" duration="7376000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -646,7 +686,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608478056530</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="2021-1-26">
+      <created>1611630406657</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1611630406658</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -700,10 +747,22 @@
     <MESSAGE value="2020-12-8" />
     <MESSAGE value="2020-12-19" />
     <MESSAGE value="2020-12-20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-12-20" />
+    <MESSAGE value="2021-1-26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-1-26" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree/template.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1608861700622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/455. Assign Cookies" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1611714284184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/1579. Remove Max Number of Edges to Keep Graph Fully Traversable" />
     <SUITE FILE_PATH="coverage/Algorithm$238__Product_of_Array_Except_Self.coverage" NAME="238. Product of Array Except Self Coverage Results" MODIFIED="1591229163553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/238. Product of Array Except Self" />
     <SUITE FILE_PATH="coverage/Algorithm$125__Valid_Palindrome.coverage" NAME="125. Valid Palindrome Coverage Results" MODIFIED="1592530332940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/125. Valid Palindrome" />
     <SUITE FILE_PATH="coverage/Algorithm$29__.coverage" NAME="面试题29. 顺时针打印矩阵 Coverage Results" MODIFIED="1591321288178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/面试题29. 顺时针打印矩阵" />
@@ -711,6 +770,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1608356010258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/48. Rotate Image" />
     <SUITE FILE_PATH="coverage/Algorithm$01_.coverage" NAME="01.找零问题 Coverage Results" MODIFIED="1586996611889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Greedy" />
     <SUITE FILE_PATH="coverage/Algorithm$14__Longest_Common_Prefix.coverage" NAME="14. Longest Common Prefix Coverage Results" MODIFIED="1592193633708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/14. Longest Common Prefix" />
+    <SUITE FILE_PATH="coverage/Algorithm$template.coverage" NAME="template Coverage Results" MODIFIED="1611715408031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree" />
     <SUITE FILE_PATH="coverage/Algorithm$ALGO_221_.coverage" NAME="ALGO-221 数据交换 Coverage Results" MODIFIED="1592870165283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Exercises/算法训练/ALGO-221 数据交换" />
     <SUITE FILE_PATH="coverage/Algorithm$code3.coverage" NAME="code3 Coverage Results" MODIFIED="1592978236137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Search/BinarySearch" />
     <SUITE FILE_PATH="coverage/Algorithm$DoubleLinkedList.coverage" NAME="DoubleLinkedList Coverage Results" MODIFIED="1587347423368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/数据结构/LinkedList" />
