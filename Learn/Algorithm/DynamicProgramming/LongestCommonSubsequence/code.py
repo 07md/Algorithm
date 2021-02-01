@@ -34,22 +34,22 @@ def LcsTraceBack(dp, directions, string, length1, length2):
 
 def Lcs(str1, str2):
 	length1, length2 = len(str1), len(str2)
-	# 生成字符串长度加1的0矩阵DP用来保存对应位置匹配的结果
+	# 生成字符串长度加 1 的 0 矩阵 DP 用来保存对应位置匹配的结果
 	DP = [[0 for _ in range(length2 + 1)] for _ in range(length1 + 1)]
-	# direction用来记录转移方向
+	# direction 用来记录转移方向
 	directions = [['' for _ in range(length2 + 1)] for _ in range(length1 + 1)]
 
 	for p1 in range(length1):
 		for p2 in range(length2):
-			# 字符匹配成功，则该位置的值为左上方的值加1
+			# 字符匹配成功，则该位置的值为左上方的值加 1
 			if str1[p1] == str2[p2]:
 				DP[p1 + 1][p2 + 1] = DP[p1][p2] + 1
 				directions[p1 + 1][p2 + 1] = 'ok'
-			# 左值大于上值，则该位置的值为左值，并标记回溯时的方向为left
+			# 左值大于上值，则该位置的值为左值，并标记回溯时的方向为 left
 			elif DP[p1 + 1][p2] > DP[p1][p2 + 1]:
 				DP[p1 + 1][p2 + 1] = DP[p1 + 1][p2]
 				directions[p1 + 1][p2 + 1] = 'left'
-			# 上值大于左值，则该位置的值为上值，并标记回溯时的方向为up
+			# 上值大于左值，则该位置的值为上值，并标记回溯时的方向为 up
 			else:
 				DP[p1 + 1][p2 + 1] = DP[p1][p2 + 1]
 				directions[p1 + 1][p2 + 1] = 'up'
