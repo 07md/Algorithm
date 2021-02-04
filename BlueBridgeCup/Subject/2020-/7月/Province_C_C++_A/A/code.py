@@ -9,3 +9,14 @@ if __name__ == '__main__':
     400体力可以消耗40秒
     32 * 120 + 40 = 3880
     """
+    n, run, ans = 10000, True, 0
+    while n:
+        for i in range(60):
+            ans += 1
+            n -= 10
+            if n == 0:
+                print(ans)
+                exit()
+        for i in range(60):
+            ans += 1
+            n += 5
