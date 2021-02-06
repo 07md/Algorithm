@@ -34,7 +34,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-2-5">
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/D/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/E/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/A/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/A/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/B/2020.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/B/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/B/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/C/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/C/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/D/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/D/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/F/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/F/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/G/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/G/题目.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/1423. Maximum Points You Can Obtain from Cards/code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +96,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/C" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/G" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -90,11 +104,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\10月\Province_Python\G" />
+      <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\10月\Province_Python\D" />
+      <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\10月\Province_Python" />
       <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\10月\Province_Java_B\C" />
       <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\10月\Province_Java_B" />
-      <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\7月\Province_C_C++_C\5" />
-      <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\7月\Province_C_C++_C\4" />
-      <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\7月\Province_C_C++_C\3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Algorithm" />
@@ -104,7 +118,7 @@
       <recent name="G:\Algorithm\Virtual Judge\51Nod\1006.最长公共子序列Lcs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code (5)">
+  <component name="RunManager" selected="Python.code (3)">
     <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/58. Length of Last Word" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/F" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/58. Length of Last Word/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/F/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,12 +149,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/G" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/A/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/G/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,34 +171,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/B" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/1423. Maximum Points You Can Obtain from Cards" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/B/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/C" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/C/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/1423. Maximum Points You Can Obtain from Cards/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,13 +207,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/C" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/C/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.code (5)" />
-        <item itemvalue="Python.code (4)" />
         <item itemvalue="Python.code (3)" />
         <item itemvalue="Python.code (2)" />
         <item itemvalue="Python.code (1)" />
+        <item itemvalue="Python.code" />
+        <item itemvalue="Python.code (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -437,7 +451,8 @@
       <workItem from="1612230738751" duration="2859000" />
       <workItem from="1612319858657" duration="2283000" />
       <workItem from="1612406720186" duration="5710000" />
-      <workItem from="1612491272759" duration="7612000" />
+      <workItem from="1612491272759" duration="7715000" />
+      <workItem from="1612529294092" duration="7193000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -719,7 +734,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612496473423</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="2021-2-5">
+      <created>1612499092102</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1612499092102</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -779,13 +801,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="2021-2-5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1612411371264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/58. Length of Last Word" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1612532443930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/F" />
     <SUITE FILE_PATH="coverage/Algorithm$238__Product_of_Array_Except_Self.coverage" NAME="238. Product of Array Except Self Coverage Results" MODIFIED="1591229163553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/238. Product of Array Except Self" />
     <SUITE FILE_PATH="coverage/Algorithm$125__Valid_Palindrome.coverage" NAME="125. Valid Palindrome Coverage Results" MODIFIED="1592530332940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/125. Valid Palindrome" />
     <SUITE FILE_PATH="coverage/Algorithm$bellman_ford.coverage" NAME="bellman-ford Coverage Results" MODIFIED="1612012067836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/ShortestPaths" />
     <SUITE FILE_PATH="coverage/Algorithm$29__.coverage" NAME="面试题29. 顺时针打印矩阵 Coverage Results" MODIFIED="1591321288178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/面试题29. 顺时针打印矩阵" />
-    <SUITE FILE_PATH="coverage/Algorithm$code.coverage" NAME="code Coverage Results" MODIFIED="1612409820496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/7月/Province_C_C++_A/A" />
-    <SUITE FILE_PATH="coverage/Algorithm$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1612494516982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/B" />
+    <SUITE FILE_PATH="coverage/Algorithm$code.coverage" NAME="code Coverage Results" MODIFIED="1612531737689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/C" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1612577258436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/1423. Maximum Points You Can Obtain from Cards" />
     <SUITE FILE_PATH="coverage/Algorithm$01_.coverage" NAME="01.找零问题 Coverage Results" MODIFIED="1586996611889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Greedy" />
     <SUITE FILE_PATH="coverage/Algorithm$14__Longest_Common_Prefix.coverage" NAME="14. Longest Common Prefix Coverage Results" MODIFIED="1592193633708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/14. Longest Common Prefix" />
     <SUITE FILE_PATH="coverage/Algorithm$template.coverage" NAME="template Coverage Results" MODIFIED="1611723660212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree" />
@@ -813,7 +835,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$KMP.coverage" NAME="KMP Coverage Results" MODIFIED="1587562256105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree" />
     <SUITE FILE_PATH="coverage/Algorithm$01_Hanoi.coverage" NAME="01.Hanoi Coverage Results" MODIFIED="1586838142153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Recursion/01.Hanoi" />
     <SUITE FILE_PATH="coverage/Algorithm$3.coverage" NAME="3 Coverage Results" MODIFIED="1587386824601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1612493464441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Java_B/A" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1612533543489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/10月/Province_Python/G" />
     <SUITE FILE_PATH="coverage/Algorithm$floyd_warshall.coverage" NAME="floyd-warshall Coverage Results" MODIFIED="1612016455039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/ShortestPaths" />
     <SUITE FILE_PATH="coverage/Algorithm$5__Longest_Palindromic_Substring.coverage" NAME="5. Longest Palindromic Substring Coverage Results" MODIFIED="1590069140655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/5. Longest Palindromic Substring" />
     <SUITE FILE_PATH="coverage/Algorithm$394__Decode_String.coverage" NAME="394. Decode String Coverage Results" MODIFIED="1590629683287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/394. Decode String" />
