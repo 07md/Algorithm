@@ -1,8 +1,7 @@
 def dfs(index, num):
-    if index >= 15:
+    if index > len(masks) - 1:
         global minn
         minn = min(minn, abs(sum(masks) - 2 * num))
-        print(minn)
         return
     dfs(index + 1, num)
     dfs(index + 1, num + masks[index])
