@@ -34,14 +34,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-2-10">
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/National _C_C++_B/1/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/Simulation_1/9.序列计数/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/Simulation_1/9.序列计数/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/567. Permutation in String/code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/National _C_C++_B/1/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/National _C_C++_B/1/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/Simulation_1/9.序列计数/9.序列计数/序列计数.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAT/甲级/1107 Social Clusters/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/PAT/甲级/1107 Social Clusters/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/真题分析.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/真题分析.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +105,7 @@
       <recent name="G:\Algorithm\Virtual Judge\51Nod\1006.最长公共子序列Lcs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code (2)">
+  <component name="RunManager" selected="Python.code (3)">
     <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,12 +158,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/甲级/1001 A+B Format" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/567. Permutation in String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/甲级/1001 A+B Format/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/567. Permutation in String/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code (3)" />
         <item itemvalue="Python.code (2)" />
         <item itemvalue="Python.code (1)" />
         <item itemvalue="Python.code" />
         <item itemvalue="Python.code (5)" />
-        <item itemvalue="Python.code (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +441,7 @@
       <workItem from="1612491272759" duration="7715000" />
       <workItem from="1612529294092" duration="8027000" />
       <workItem from="1612745435995" duration="7417000" />
-      <workItem from="1612829953810" duration="21017000" />
+      <workItem from="1612829953810" duration="22054000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -770,7 +765,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612937504351</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="2021-2-10">
+      <created>1612939784131</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1612939784131</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
