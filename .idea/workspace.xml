@@ -34,10 +34,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-2-9">
-      <change afterPath="$PROJECT_DIR$/PAT/甲级/1001 A+B Format/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAT/甲级/1002 A+B for Polynomials/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAT/甲级/1034 Head of a Gang/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAT/甲级/1107 Social Clusters/code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Logo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,29 +105,7 @@
       <recent name="G:\Algorithm\Virtual Judge\51Nod\1006.最长公共子序列Lcs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code (5)">
-    <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/7月/Province_C_C++_A/E" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/7月/Province_C_C++_A/E/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.code">
     <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,13 +194,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/甲级/1034 Head of a Gang" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/甲级/1034 Head of a Gang/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code" />
         <item itemvalue="Python.code (5)" />
         <item itemvalue="Python.code (4)" />
         <item itemvalue="Python.code (3)" />
         <item itemvalue="Python.code (2)" />
-        <item itemvalue="Python.code (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +441,7 @@
       <workItem from="1612491272759" duration="7715000" />
       <workItem from="1612529294092" duration="8027000" />
       <workItem from="1612745435995" duration="7417000" />
-      <workItem from="1612829953810" duration="11859000" />
+      <workItem from="1612829953810" duration="18870000" />
     </task>
     <task id="LOCAL-00001" summary="2020-2-11">
       <created>1581416721066</created>
@@ -752,7 +751,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612836873703</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="2021-2-9">
+      <created>1612882836871</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1612882836871</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -817,7 +823,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$125__Valid_Palindrome.coverage" NAME="125. Valid Palindrome Coverage Results" MODIFIED="1592530332940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/125. Valid Palindrome" />
     <SUITE FILE_PATH="coverage/Algorithm$bellman_ford.coverage" NAME="bellman-ford Coverage Results" MODIFIED="1612012067836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/ShortestPaths" />
     <SUITE FILE_PATH="coverage/Algorithm$29__.coverage" NAME="面试题29. 顺时针打印矩阵 Coverage Results" MODIFIED="1591321288178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/面试题29. 顺时针打印矩阵" />
-    <SUITE FILE_PATH="coverage/Algorithm$code.coverage" NAME="code Coverage Results" MODIFIED="1612750678314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/7月/Province_C_C++_A/D" />
+    <SUITE FILE_PATH="coverage/Algorithm$code.coverage" NAME="code Coverage Results" MODIFIED="1612937277926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/甲级/1034 Head of a Gang" />
     <SUITE FILE_PATH="coverage/Algorithm$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1612836375964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2013/Province_C_C++_A/10" />
     <SUITE FILE_PATH="coverage/Algorithm$01_.coverage" NAME="01.找零问题 Coverage Results" MODIFIED="1586996611889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Greedy" />
     <SUITE FILE_PATH="coverage/Algorithm$14__Longest_Common_Prefix.coverage" NAME="14. Longest Common Prefix Coverage Results" MODIFIED="1592193633708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/14. Longest Common Prefix" />
