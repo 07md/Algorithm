@@ -34,141 +34,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-2-16">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/566. Reshape the Matrix/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAT/甲级/1019 General Palindromic Number/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAT/甲级/1023 Have Fun with Numbers/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAT/甲级/1027 Colors in Mars/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAT/甲级/1031 Hello World for U/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAT/甲级/1042 Shuffling Machine/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_A/1/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_A/1/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_B/1/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_C/1/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_C/1/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/1004. Max Consecutive Ones III/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/995. Minimum Number of K Consecutive Bit Flips/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAT/甲级/1035 Password/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAT/甲级/1100 Mars Numbers/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_A/1/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_A/1/题目.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_C/1/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_C/1/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_C/1/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_C/1/题目.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_A/1/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_A/1/题目.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_B/1/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_B/1/题目.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_C/1/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_C/1/题目.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/真题分析.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/真题分析.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/basic_class_01/Code_06_BucketSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/basic_class_01/Code_07_RadixSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/basic_class_01/Code_09_Comparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/basic_class_01/Code_10_GetAllNotIncluded.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/basic_class_02/Code_01_KMP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/basic_class_02/Code_02_KMP_ShortestHaveTwice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/basic_class_02/Code_03_KMP_T1SubtreeEqualsT2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/basic_class_02/Code_04_Manacher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/basic_class_02/Code_05_Manacher_ShortestEnd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/basic_class_02/Code_06_BFPRT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_01_Array_To_Stack_Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_02_GetMinStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_03_StackAndQueueConvert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_04_DogCatQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_07_ReverseList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_09_FindNumInSortedMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_10_PrintCommonPart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_11_IsPalindromeList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_12_SmallerEqualBigger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_13_CopyListWithRandom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_14_FindFirstIntersectNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_03/Code_15_FindOneLessValueIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_04/Code_02_PrintBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_04/Code_04_SerializeAndReconstructTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_04/Code_05_PaperFolding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_04/Code_07_IsBSTAndCBT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_04/Code_08_CompleteTreeNodeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_05/Code_01_HashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_05/Code_02_RandomPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_06/Code_01_BFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_06/Code_02_DFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_06/Code_03_TopologySort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_06/Code_04_Kruskal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_06/Code_05_Prim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_06/Code_06_Dijkstra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_06/Edge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_06/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_06/GraphGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_06/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_07/Code_01_TrieTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_07/Code_02_Less_Money.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_07/Code_03_IPO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_07/Code_04_MadianQuick.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_07/Code_05_LowestLexicography.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_07/Code_06_BestArrange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/Code_01_Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/Code_02_Hanoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/Code_03_Print_All_Subsquences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/Code_04_Print_All_Permutations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/Code_05_Cow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/Code_06_ReverseStackUsingRecursive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/Code_07_MinPath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/Code_08_Money_Problem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/Code_09_Knapsack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/FaceBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/class_08/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/基础班7、8节作业.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/算法初级班第一课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/算法初级班第二课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/算法基础班第七课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/算法基础班第三课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/算法基础班第五课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/算法基础班第六课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/基础班/算法基础班第四课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_01_GetMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_02_HanoiProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_03_LongestPathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_05_IsBalancedTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_06_T1ContainsT2Topology.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_07_ExpressionCompute.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_01/Code_08_MaxDistanceInTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_01_LeastRecentlyUsedCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_02_Building_Outline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_03_FindNewTypeChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_04_TrieTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_05_EnglishExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_06_ChineseExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/advanced_class_02/Code_07_ThrowChessPiecesProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/AVLTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/AbstractBinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/AbstractSelfBalancingBinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/BinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/Code_01_MorrisTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/Code_02_SkipList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_03/RedBlackTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_01_Building_Outline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_02_LRU.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_03_LFU.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_04_BiggestSubBSTInTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_05_LongestSumSubArrayLength.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_06_Most_EOR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/新进阶课第3、4节代码/advanced_class_04/Code_07_ExpressionCompute.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/算法进阶班第一课 .pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/算法进阶班第七课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/算法进阶班第三课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/算法进阶班第二课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/算法进阶班第五课 .pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/算法进阶班第八课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/算法进阶班第六课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/算法进阶班第四课.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_01_MinPathSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_02_LIS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_03_LCSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_04_LCSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_05_EditCost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_06_PalindromeMinCut.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_07_StringCross.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_07/Code_08_ParenthesesProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_01_TopKSumCrossTwoArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_02_MaxSubMatrixSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_03_MaxOneBorderSize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_04_FibonacciProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_05_LongestNoRepeatSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班/advanced_class_08/Code_06_ShuffleProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_01_IsBSTAndCBT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_02_IsBalancedTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_03_MaxDistanceInTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_04_MaxHappy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_05_Max_EOR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_05/Code_06_CompleteTreeNodeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_01_CoinsWay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_02_CardsInLine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_03_RegularExpressionMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_04_LongestSumSubArrayLengthInPositiveArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_05_LongestSubarrayLessSumAwesomeSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班5、6节代码/advanced_class_06/Code_06_JosephusProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/牛客/进阶班/进阶班7、8节作业.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +109,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2020-/7月/Province_C_C++_A/E" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_B/1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -234,11 +117,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Algorithm\BlueBridgeCup\Subject\2017\National _Java_B\1" />
       <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\7月\Province_C_C++_A\E" />
       <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\7月\Province_C_C++_A\D" />
       <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\7月\Province_C_C++_A\C" />
       <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\7月\Province_C_C++_A\B" />
-      <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\10月\Province_Python\G" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\Algorithm" />
@@ -248,7 +131,7 @@
       <recent name="G:\Algorithm\Virtual Judge\51Nod\1006.最长公共子序列Lcs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.code (2)">
+  <component name="RunManager" selected="Python.code (3)">
     <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,12 +140,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/甲级/1042 Shuffling Machine" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_A/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/甲级/1042 Shuffling Machine/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_A/1/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,12 +162,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/566. Reshape the Matrix" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_C/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/566. Reshape the Matrix/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_C/1/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,12 +184,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/甲级/1027 Colors in Mars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/甲级/1035 Password" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/甲级/1027 Colors in Mars/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/甲级/1035 Password/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,12 +206,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/甲级/1023 Have Fun with Numbers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_C/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/甲级/1023 Have Fun with Numbers/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_C/1/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,12 +228,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/甲级/1031 Hello World for U" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/995. Minimum Number of K Consecutive Bit Flips" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/甲级/1031 Hello World for U/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/995. Minimum Number of K Consecutive Bit Flips/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code (3)" />
+        <item itemvalue="Python.code (4)" />
         <item itemvalue="Python.code (2)" />
         <item itemvalue="Python.code (1)" />
         <item itemvalue="Python.code" />
-        <item itemvalue="Python.code (5)" />
-        <item itemvalue="Python.code (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -590,14 +473,11 @@
       <workItem from="1613386838510" duration="35000" />
       <workItem from="1613439839748" duration="4298000" />
       <workItem from="1613479725769" duration="5060000" />
-      <workItem from="1613526500496" duration="1045000" />
-    </task>
-    <task id="LOCAL-00006" summary="2020-4-19">
-      <created>1587287885829</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1587287885829</updated>
+      <workItem from="1613526500496" duration="3431000" />
+      <workItem from="1613552140720" duration="1742000" />
+      <workItem from="1613566193919" duration="6569000" />
+      <workItem from="1613612164305" duration="4234000" />
+      <workItem from="1613698465667" duration="2772000" />
     </task>
     <task id="LOCAL-00007" summary="2020-4-20">
       <created>1587342807918</created>
@@ -935,7 +815,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613442098880</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="2021-2-16">
+      <created>1613527695866</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1613527695867</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -995,13 +882,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="2021-2-16" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1613484262692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/甲级/1042 Shuffling Machine" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1613616600815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_A/1" />
     <SUITE FILE_PATH="coverage/Algorithm$238__Product_of_Array_Except_Self.coverage" NAME="238. Product of Array Except Self Coverage Results" MODIFIED="1591229163553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/238. Product of Array Except Self" />
     <SUITE FILE_PATH="coverage/Algorithm$125__Valid_Palindrome.coverage" NAME="125. Valid Palindrome Coverage Results" MODIFIED="1592530332940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/125. Valid Palindrome" />
     <SUITE FILE_PATH="coverage/Algorithm$bellman_ford.coverage" NAME="bellman-ford Coverage Results" MODIFIED="1612012067836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/ShortestPaths" />
     <SUITE FILE_PATH="coverage/Algorithm$29__.coverage" NAME="面试题29. 顺时针打印矩阵 Coverage Results" MODIFIED="1591321288178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/面试题29. 顺时针打印矩阵" />
-    <SUITE FILE_PATH="coverage/Algorithm$code.coverage" NAME="code Coverage Results" MODIFIED="1613482376129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/甲级/1031 Hello World for U" />
-    <SUITE FILE_PATH="coverage/Algorithm$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1613444073492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/甲级/1027 Colors in Mars" />
+    <SUITE FILE_PATH="coverage/Algorithm$code.coverage" NAME="code Coverage Results" MODIFIED="1613614653868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/995. Minimum Number of K Consecutive Bit Flips" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__3_.coverage" NAME="code (3) Coverage Results" MODIFIED="1613553842449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_A/1" />
     <SUITE FILE_PATH="coverage/Algorithm$01_.coverage" NAME="01.找零问题 Coverage Results" MODIFIED="1586996611889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Greedy" />
     <SUITE FILE_PATH="coverage/Algorithm$14__Longest_Common_Prefix.coverage" NAME="14. Longest Common Prefix Coverage Results" MODIFIED="1592193633708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/14. Longest Common Prefix" />
     <SUITE FILE_PATH="coverage/Algorithm$template.coverage" NAME="template Coverage Results" MODIFIED="1611723660212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree" />
@@ -1015,7 +902,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$4.coverage" NAME="4 Coverage Results" MODIFIED="1587384727053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$1_.coverage" NAME="1.二叉树遍历 Coverage Results" MODIFIED="1587568267224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree" />
     <SUITE FILE_PATH="coverage/Algorithm$70__Climbing_Stairs.coverage" NAME="70. Climbing Stairs Coverage Results" MODIFIED="1592024029650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/70. Climbing Stairs" />
-    <SUITE FILE_PATH="coverage/Algorithm$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1613443269511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/甲级/1019 General Palindromic Number" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1613700622181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_C/1" />
     <SUITE FILE_PATH="coverage/Algorithm$1006_Lcs.coverage" NAME="1006.最长公共子序列Lcs Coverage Results" MODIFIED="1594094963631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Virtual Judge/51Nod/1006.最长公共子序列Lcs" />
     <SUITE FILE_PATH="coverage/Algorithm$1.coverage" NAME="1 Coverage Results" MODIFIED="1587385359045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$76__Minimum_Window_Substring.coverage" NAME="76. Minimum Window Substring Coverage Results" MODIFIED="1590198969447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/76. Minimum Window Substring" />
@@ -1029,7 +916,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$KMP.coverage" NAME="KMP Coverage Results" MODIFIED="1587562256105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree" />
     <SUITE FILE_PATH="coverage/Algorithm$01_Hanoi.coverage" NAME="01.Hanoi Coverage Results" MODIFIED="1586838142153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Recursion/01.Hanoi" />
     <SUITE FILE_PATH="coverage/Algorithm$3.coverage" NAME="3 Coverage Results" MODIFIED="1587386824601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1613527652849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/566. Reshape the Matrix" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1613616928330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_C/1" />
     <SUITE FILE_PATH="coverage/Algorithm$floyd_warshall.coverage" NAME="floyd-warshall Coverage Results" MODIFIED="1612016455039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/ShortestPaths" />
     <SUITE FILE_PATH="coverage/Algorithm$5__Longest_Palindromic_Substring.coverage" NAME="5. Longest Palindromic Substring Coverage Results" MODIFIED="1590069140655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/5. Longest Palindromic Substring" />
     <SUITE FILE_PATH="coverage/Algorithm$394__Decode_String.coverage" NAME="394. Decode String Coverage Results" MODIFIED="1590629683287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/394. Decode String" />
@@ -1041,6 +928,6 @@
     <SUITE FILE_PATH="coverage/Algorithm$PREV_53_.coverage" NAME="PREV-53-分考场 Coverage Results" MODIFIED="1605257530993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Exercises/历届试题" />
     <SUITE FILE_PATH="coverage/Algorithm$15__3Sum.coverage" NAME="15. 3Sum Coverage Results" MODIFIED="1591929667188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/15. 3Sum" />
     <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="太极 Coverage Results" MODIFIED="1590743731172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$code__5_.coverage" NAME="code (5) Coverage Results" MODIFIED="1613480337866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/甲级/1023 Have Fun with Numbers" />
+    <SUITE FILE_PATH="coverage/Algorithm$code__5_.coverage" NAME="code (5) Coverage Results" MODIFIED="1613571797058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/甲级/1100 Mars Numbers" />
   </component>
 </project>
