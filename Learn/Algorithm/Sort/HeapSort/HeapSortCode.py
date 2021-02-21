@@ -1,28 +1,15 @@
-# !/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/1/14 下午10:38
-# @File     : BubbleSortCode.py
-# @Project  : Algorithm
-# @Software : PyCharm
-# ----------------------------------------------
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
-# >>> Author    : alex
-# >>> QQ        : 2426671397
-# >>> Mail      : alex18812649207@gmail.com
-# >>> Github    : https://github.com/koking0
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆
 import copy
 import heapq
 import random
 
 
-def heapInsert(array: list, index: int):
-    while array[(index - 1) // 2] < array[index] and index > 0:
-        array[(index - 1) // 2], array[index] = array[index], array[(index - 1) // 2]
+def heapInsert(arr: list, index: int):
+    while arr[(index - 1) // 2] < arr[index] and index > 0:
+        arr[(index - 1) // 2], arr[index] = arr[index], arr[(index - 1) // 2]
         index = (index - 1) // 2
 
 
-def heapify(arr: list, index: int, length: int):
+def heapIfy(arr: list, index: int, length: int):
     left = 2 * index + 1
     while left < length:
         # 左右子节点中的最大值索引
@@ -39,15 +26,17 @@ def heapify(arr: list, index: int, length: int):
             left = 2 * index + 1
 
 
-def heapSort(array: list):
-    length = len(array)
+def heapSort(arr: list):
+    length = len(arr)
     if length < 2:
         return
-    for index in range(1, length):
-        heapInsert(array, index)
+    # for index in range(1, length):
+    #     heapInsert(arr, index)
     for index in range(length - 1, -1, -1):
-        array[0], array[index] = array[index], array[0]
-        heapify(array, 0, index)
+        heapIfy(arr, index, len(arr))
+    for index in range(length - 1, -1, -1):
+        arr[0], arr[index] = arr[index], arr[0]
+        heapIfy(arr, 0, index)
 
 
 def pythonHeap(arr: list):
@@ -62,7 +51,6 @@ if __name__ == "__main__":
         list2 = copy.deepcopy(list1)
         list3 = copy.deepcopy(list1)
         heapSort(list2)
-        # list3.sort()
         list3 = pythonHeap(list3)
         if list2 != list3:
             flag = False
