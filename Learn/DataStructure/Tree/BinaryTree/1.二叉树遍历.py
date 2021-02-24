@@ -1,17 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/1/27 16:25
-# @File     : 1.二叉树遍历.py
-# ----------------------------------------------
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
-# >>> Author    : Alex
-# >>> QQ        : 2426671397
-# >>> Mail      : alex18812649207@gmail.com
-# >>> Github    : https://github.com/koking0
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆
-
-
-class Node:
+class TreeNode:
     def __init__(self, value=None):
         self.value, self.left, self.right = value, None, None
 
@@ -43,7 +30,6 @@ class Node:
         print(self.value, end=' ')
 
     def preOrderLoop(self):
-        print("pre order loop: ", end='')
         stack = [self]
         while stack:
             temp = stack.pop()
@@ -52,13 +38,10 @@ class Node:
                 stack.append(temp.right)
             if temp.left is not None:
                 stack.append(temp.left)
-        print()
 
     def inOrderLoop(self):
-        print("in order loop: ", end='')
         if self is not None:
-            stack = []
-            temp = self
+            stack, temp = [], self
             while stack or temp is not None:
                 if temp is not None:
                     stack.append(temp)
@@ -67,7 +50,6 @@ class Node:
                     temp = stack.pop()
                     print(temp.value, end=' ')
                     temp = temp.right
-        print()
 
     def posOrderLoop(self):
         """
@@ -75,7 +57,6 @@ class Node:
         后续遍历的次序是：左右中
         相当于将前序遍历中左右的顺序颠倒再倒着打印
         """
-        print("pos order loop: ", end='')
         stack1 = []
         if self is not None:
             stack2 = [self]
@@ -91,13 +72,13 @@ class Node:
 
 
 if __name__ == '__main__':
-    head = Node(1)
-    head.left = Node(2)
-    head.right = Node(3)
-    head.left.left = Node(4)
-    head.left.right = Node(5)
-    head.right.left = Node(6)
-    head.right.right = Node(7)
+    head = TreeNode(1)
+    head.left = TreeNode(2)
+    head.right = TreeNode(3)
+    head.left.left = TreeNode(4)
+    head.left.right = TreeNode(5)
+    head.right.left = TreeNode(6)
+    head.right.right = TreeNode(7)
 
     print("==============recursive==============")
     print("pre order recursive: ", end='')
@@ -111,6 +92,12 @@ if __name__ == '__main__':
     print()
 
     print("============no recursive=============")
+    print("pre order loop: ", end='')
     head.preOrderLoop()
+    print()
+    print("in order loop: ", end='')
     head.inOrderLoop()
+    print()
+    print("pos order loop: ", end='')
     head.posOrderLoop()
+    print()
