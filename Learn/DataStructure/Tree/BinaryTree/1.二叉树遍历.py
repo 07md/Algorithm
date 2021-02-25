@@ -1,8 +1,12 @@
+from collections import deque
+
+
 class TreeNode:
     def __init__(self, value=None):
         self.value, self.left, self.right = value, None, None
 
     def preOrderRecursive(self):
+        """ 前序遍历（递归） """
         if self is None:
             return
         print(self.value, end=' ')
@@ -12,6 +16,7 @@ class TreeNode:
             self.right.preOrderRecursive()
 
     def inOrderRecursive(self):
+        """ 中序遍历（递归） """
         if self is None:
             return
         if self.left:
@@ -21,6 +26,7 @@ class TreeNode:
             self.right.inOrderRecursive()
 
     def posOrderRecursive(self):
+        """ 后序遍历（递归） """
         if self is None:
             return
         if self.left:
@@ -30,6 +36,7 @@ class TreeNode:
         print(self.value, end=' ')
 
     def preOrderLoop(self):
+        """ 前序遍历（循环） """
         stack = [self]
         while stack:
             temp = stack.pop()
@@ -40,6 +47,7 @@ class TreeNode:
                 stack.append(temp.left)
 
     def inOrderLoop(self):
+        """ 前序遍历（循环） """
         if self is not None:
             stack, temp = [], self
             while stack or temp is not None:
@@ -53,6 +61,8 @@ class TreeNode:
 
     def posOrderLoop(self):
         """
+        后序遍历（循环）
+
         前序遍历的次序是：中左右
         后续遍历的次序是：左右中
         相当于将前序遍历中左右的顺序颠倒再倒着打印
@@ -69,6 +79,9 @@ class TreeNode:
                     stack2.append(temp.right)
         while stack1:
             print(stack1.pop().value, end=' ')
+
+    def widthOrder(self):
+
 
 
 if __name__ == '__main__':
