@@ -4,17 +4,13 @@ import sys
 def check(x: int, y: int) -> bool:
     for i in range(x - 1):
         for j in range(y - 1):
-            if (maps[i][j] == 1 and maps[i + 1][j] == 1 and maps[i][j + 1] == 1 and maps[i + 1][j + 1] == 1) or \
-                    (maps[i][j] == 2 and maps[i + 1][j] == 2 and maps[i][j + 1] == 2 and maps[i + 1][j + 1] == 2):
+            if (maps[i][j] + maps[i + 1][j] + maps[i][j + 1] + maps[i + 1][j + 1]) in [0, 4, 8]:
                 return False
     return True
 
 
 def dfs(x: int, y: int):
     if x > rows - 1 or y > cols - 1:
-        return
-
-    if not check(x + 1, y + 1):
         return
 
     if x == rows - 1 and y == cols - 1 and check(rows, cols):
@@ -64,7 +60,7 @@ def dfs(x: int, y: int):
 
 if __name__ == '__main__':
     sys.setrecursionlimit(10000)
-    rows, cols, vis, ans = 3, 10, set(), 0
+    rows, cols, vis, ans = 3, 6, set(), 0
     maps = [[0 for _ in range(cols)] for _ in range(rows)]  # 0 表示还没有贴瓷砖，1 表示黄色瓷砖，2表示橙色瓷砖
     dfs(0, 0)
     print(ans)

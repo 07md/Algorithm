@@ -47,7 +47,7 @@ class TreeNode:
                 stack.append(temp.left)
 
     def inOrderLoop(self):
-        """ 前序遍历（循环） """
+        """ 中序遍历（循环） """
         if self is not None:
             stack, temp = [], self
             while stack or temp is not None:
@@ -81,7 +81,8 @@ class TreeNode:
             print(stack1.pop().value, end=' ')
 
     def widthOrder(self):
-
+        """层序遍历"""
+        pass
 
 
 if __name__ == '__main__':
