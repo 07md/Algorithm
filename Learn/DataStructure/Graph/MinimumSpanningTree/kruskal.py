@@ -7,8 +7,6 @@ def kruskal(graph: dict):
     ufs = UnionFindSet(n + 1)
     graph.get("edges").sort(key=cmp_to_key(lambda a, b: a[2] - b[2]))
     for start, end, weight in graph.get("edges"):
-        if len(tree) == n - 1:
-            break
         if not ufs.same(start, end):
             ufs.union(start, end)
             tree.append((start, end, weight))

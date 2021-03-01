@@ -33,56 +33,19 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-02-25">
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/3/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/4/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/7/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_B/4/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_C/3/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_C/4/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/1/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/2/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/3/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/3/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/BinaryTree/BinaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/1178. Number of Valid Words for Each Puzzle/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/395. Longest Substring with At Least K Repeating Characters/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/896. Monotonic Array/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/面试题/面试题 17.12. BiNode LCCI/solve.py" afterDir="false" />
+    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-02-28">
+      <change afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/303. Range Sum Query - Immutable/solve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_B/2/solve.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _C_C++_B/2/solve.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/3/3..cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/3/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/3/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/4/4..cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/4/solve.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/4/4..exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/4/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/4/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/5/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/5/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/7/7..cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/7/solve.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_A/7/7..exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_B/4/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_B/4/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_C/3/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_C/3/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_C/4/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_C/4/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_C/5/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_C/5/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_C/7/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_Java_C/7/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/1/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/1/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/10/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/10/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/2/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/2/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/2018-省赛-Java语言大学C组.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/3/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/3/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/4/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/4/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/5/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/5/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/6/p1.png" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/6/p1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/6/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/6/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/7/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/7/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/8/p1.png" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/8/p1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/8/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/8/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/9/p1.png" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/9/p1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/Java语言C组/9/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/9/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/真题分析.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/真题分析.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Tree/BinaryTree/1.二叉树遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/BinaryTree/1.二叉树遍历.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Tree/BinaryTree/2.前驱后继节点.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/BinaryTree/2.前驱后继节点.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Tree/BinaryTree/3.序列化与反序列化.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Tree/BinaryTree/3.序列化与反序列化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree/kruskal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree/kruskal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Graph/ShortestPaths/dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/ShortestPaths/dijkstra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/Topological Sorting.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/TopologicalSorting/Topological Sorting.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/WeChat Screenshot_20210113173918.png" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/TopologicalSorting/WeChat Screenshot_20210113173918.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/code.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/TopologicalSorting/code.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/code.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/template.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Learn/DataStructure/Graph/TopologicalSorting/template.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn/DataStructure/Graph/Topological Sorting/template.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +107,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -162,8 +125,8 @@
       <recent name="G:\Algorithm\LeetCode\面试题" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solve (2)">
-    <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.solve (1)">
+    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,12 +134,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/DataStructure/Tree/BinaryTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/DataStructure/Graph" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/DataStructure/Tree/BinaryTree/BinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/DataStructure/Graph/graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kruskal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree/kruskal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,12 +178,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/896. Monotonic Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/303. Range Sum Query - Immutable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/896. Monotonic Array/solve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/303. Range Sum Query - Immutable/solve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,28 +206,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/3/solve.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solve (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/1/solve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solve (1)" />
+        <item itemvalue="Python.graph" />
+        <item itemvalue="Python.kruskal" />
         <item itemvalue="Python.solve (2)" />
         <item itemvalue="Python.solve" />
-        <item itemvalue="Python.solve (3)" />
-        <item itemvalue="Python.solve (1)" />
-        <item itemvalue="Python.BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -522,14 +485,9 @@
       <workItem from="1614300266820" duration="102000" />
       <workItem from="1614311833419" duration="13721000" />
       <workItem from="1614399307891" duration="12722000" />
-      <workItem from="1614485101591" duration="4979000" />
-    </task>
-    <task id="LOCAL-00012" summary="2020-5-20">
-      <created>1589982422815</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1589982422815</updated>
+      <workItem from="1614485101591" duration="9297000" />
+      <workItem from="1614498681441" duration="7338000" />
+      <workItem from="1614557578956" duration="660000" />
     </task>
     <task id="LOCAL-00013" summary="2020-5-21">
       <created>1590074787363</created>
@@ -867,7 +825,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614240752842</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="2021-02-28">
+      <created>1614490764354</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1614490764354</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -899,7 +864,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2020-11-5" />
     <MESSAGE value="2020-12-8" />
     <MESSAGE value="2020-12-19" />
     <MESSAGE value="2020-12-20" />
@@ -924,7 +888,8 @@
     <MESSAGE value="2021-02-23" />
     <MESSAGE value="2021-02-24" />
     <MESSAGE value="2021-02-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-02-25" />
+    <MESSAGE value="2021-02-28" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-02-28" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1614047035351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/1052. Grumpy Bookstore Owner" />
@@ -940,8 +905,9 @@
     <SUITE FILE_PATH="coverage/Algorithm$120__Triangle.coverage" NAME="120. Triangle Coverage Results" MODIFIED="1594685849538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/120. Triangle" />
     <SUITE FILE_PATH="coverage/Algorithm$974__Subarray_Sums_Divisible_by_K.coverage" NAME="974. Subarray Sums Divisible by K Coverage Results" MODIFIED="1590546212883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/974. Subarray Sums Divisible by K" />
     <SUITE FILE_PATH="coverage/Algorithm$739__Daily_Temperatures.coverage" NAME="739. Daily Temperatures Coverage Results" MODIFIED="1591837327897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/739. Daily Temperatures" />
-    <SUITE FILE_PATH="coverage/Algorithm$solve__2_.coverage" NAME="solve (2) Coverage Results" MODIFIED="1614490521750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/3" />
+    <SUITE FILE_PATH="coverage/Algorithm$solve__2_.coverage" NAME="solve (2) Coverage Results" MODIFIED="1614490613450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2018-/Province_Java_C/3" />
     <SUITE FILE_PATH="coverage/Algorithm$4.coverage" NAME="4 Coverage Results" MODIFIED="1587384727053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$graph.coverage" NAME="graph Coverage Results" MODIFIED="1614505021676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph" />
     <SUITE FILE_PATH="coverage/Algorithm$code__4_.coverage" NAME="code (4) Coverage Results" MODIFIED="1613700622181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/National _Java_C/1" />
     <SUITE FILE_PATH="coverage/Algorithm$1_.coverage" NAME="1.二叉树遍历 Coverage Results" MODIFIED="1614156271478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Tree/BinaryTree" />
     <SUITE FILE_PATH="coverage/Algorithm$1.coverage" NAME="1 Coverage Results" MODIFIED="1587385359045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -952,10 +918,11 @@
     <SUITE FILE_PATH="coverage/Algorithm$128__Longest_Consecutive_Sequence.coverage" NAME="128. Longest Consecutive Sequence Coverage Results" MODIFIED="1591401318410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/128. Longest Consecutive Sequence" />
     <SUITE FILE_PATH="coverage/Algorithm$KMP.coverage" NAME="KMP Coverage Results" MODIFIED="1587562256105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/数据结构/Tree/Binary_Tree" />
     <SUITE FILE_PATH="coverage/Algorithm$3.coverage" NAME="3 Coverage Results" MODIFIED="1587386824601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algorithm$solve__1_.coverage" NAME="solve (1) Coverage Results" MODIFIED="1614485900296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/896. Monotonic Array" />
+    <SUITE FILE_PATH="coverage/Algorithm$solve__1_.coverage" NAME="solve (1) Coverage Results" MODIFIED="1614557881090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/303. Range Sum Query - Immutable" />
     <SUITE FILE_PATH="coverage/Algorithm$floyd_warshall.coverage" NAME="floyd-warshall Coverage Results" MODIFIED="1612016455039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/ShortestPaths" />
     <SUITE FILE_PATH="coverage/Algorithm$5__Longest_Palindromic_Substring.coverage" NAME="5. Longest Palindromic Substring Coverage Results" MODIFIED="1590069140655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/5. Longest Palindromic Substring" />
     <SUITE FILE_PATH="coverage/Algorithm$2.coverage" NAME="2 Coverage Results" MODIFIED="1587384414526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$kruskal.coverage" NAME="kruskal Coverage Results" MODIFIED="1614498280797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree" />
     <SUITE FILE_PATH="coverage/Algorithm$03_.coverage" NAME="03.活动选择问题 Coverage Results" MODIFIED="1587000000090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Greedy" />
     <SUITE FILE_PATH="coverage/Algorithm$topK.coverage" NAME="topK Coverage Results" MODIFIED="1586878727768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Algorithm/Sort/HeapSort/01.topK" />
     <SUITE FILE_PATH="coverage/Algorithm$temp.coverage" NAME="temp Coverage Results" MODIFIED="1587051046110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

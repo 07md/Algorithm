@@ -7,8 +7,8 @@ from scipy.sparse.csgraph import dijkstra
 def Dijkstra(graph, node):
     n, queue, visit = len(graph), list(), {node}
     heapq.heappush(queue, (0, node))
-    distance, precursor = [float("inf") for _ in range(n)], [float("inf") for _ in range(n)]
-    distance[node] = 0
+    dists, precursor = [float("inf") for _ in range(n)], [float("inf") for _ in range(n)]
+    dists[node] = 0
 
     while queue:
         dist, vertex = heapq.heappop(queue)
@@ -16,12 +16,12 @@ def Dijkstra(graph, node):
 
         for i in range(n):
             val = graph[vertex][i]
-            if val != float("inf") and i not in visit and dist + val < distance[i]:
+            if val != float("inf") and i not in visit and dist + val < dists[i]:
                 precursor[i] = vertex
-                distance[i] = dist + val
+                dists[i] = dist + val
                 heapq.heappush(queue, (dist + val, i))
 
-    return distance, precursor
+    return dists, precursor
 
 
 if __name__ == '__main__':
