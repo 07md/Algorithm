@@ -33,17 +33,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-03-11">
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/School_C_C++_A/4/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/School_C_C++_A/5/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/School_C_C++_A/6/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/705. Design HashSet/solve.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-03-13">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/706. Design HashMap/solve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/School_C_C++_A/2015-校内选拔-C大学A组.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/School_C_C++_A/4/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/School_C_C++_A/4/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/School_C_C++_A/5/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/School_C_C++_A/5/题目.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/School_C_C++_A/6/题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BlueBridgeCup/Subject/2014-/School_C_C++_A/6/题目.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -490,14 +482,8 @@
       <workItem from="1615439812396" duration="1424000" />
       <workItem from="1615472595291" duration="2165000" />
       <workItem from="1615558194785" duration="2274000" />
-      <workItem from="1615609423286" duration="4487000" />
-    </task>
-    <task id="LOCAL-00016" summary="2020-5-27">
-      <created>1590550764557</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1590550764557</updated>
+      <workItem from="1615609423286" duration="4799000" />
+      <workItem from="1615698035563" duration="278000" />
     </task>
     <task id="LOCAL-00017" summary="2020-6-15">
       <created>1592180469469</created>
@@ -835,7 +821,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615474258292</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="2021-03-13">
+      <created>1615613998389</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1615613998390</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -867,7 +860,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2020-12-20" />
     <MESSAGE value="2021-1-26" />
     <MESSAGE value="2021-1-27" />
     <MESSAGE value="最小生成树" />
@@ -892,7 +884,8 @@
     <MESSAGE value="2021-02-28" />
     <MESSAGE value="2021-03-01" />
     <MESSAGE value="2021-03-11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-03-11" />
+    <MESSAGE value="2021-03-13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-03-13" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1614047035351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/1052. Grumpy Bookstore Owner" />
