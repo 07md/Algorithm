@@ -1,18 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/1/20 上午8:47
-# @File     : BubbleSortCode.py
-# @Project  : Algorithm
-# @Software : PyCharm
-# ----------------------------------------------
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
-# >>> Author    : alex
-# >>> QQ        : 2426671397
-# >>> Mail      : alex18812649207@gmail.com
-# >>> Github    : https://github.com/koking0
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
-
-
 def print_edge(temp_matrix, left_up_x, left_up_y, right_down_x, right_down_y):
     if left_up_x == right_down_x:
         for i in range(left_up_y, right_down_y + 1):
