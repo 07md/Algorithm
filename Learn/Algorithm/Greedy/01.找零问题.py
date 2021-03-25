@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/4/16 8:12
-# @File     : 01.找零问题.py
-# ----------------------------------------------
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
-# >>> Author    : Alex 007
-# >>> QQ        : 2426671397
-# >>> Mail      : alex18812649207@gmail.com
-# >>> Github    : https://github.com/koking0
-# >>> Blog      : https://alex007.blog.csdn.net/
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆
 # 假设商店老板需要找零 n 元钱，钱币的面额有：100元、50元、20元、5元、1元，如何找零使得所需钱币的数量最少？
 
 

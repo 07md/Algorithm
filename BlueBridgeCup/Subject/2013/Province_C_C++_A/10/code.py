@@ -37,27 +37,10 @@ if __name__ == '__main__':
         p, q, d = map(int, input().split())
         graphData[p - 1][q - 1] = d
         graphData[q - 1][p - 1] = d
-    # print(graphData)
-
-    # ans = 0
-
-    # distances = FloydWarshall(graphData)
-    # # print(distances)
-    # for d in distances:
-    #     ans = max(ans, max([i for i in d if i != float("inf")]))
-    # # print(ans)
-
-    # for i in range(n):
-    #     distances = spfa(graphData, i)
-    #     # print(distances)
-    #     ans = max(ans, max([j for j in distances if j != float("inf")]))
 
     dists1 = spfa(graphData, 0)
-    # print(dists1)
     far = max([j for j in dists1 if j != float("inf")])
-    # print(f"far = {far}, dists1.index(far) = {dists1.index(far)}")
     dists2 = spfa(graphData, dists1.index(far))
-    # print(dists2)
     ans = max([j for j in dists2 if j != float("inf")])
 
     print(ans * 10 + sum([i for i in range(ans + 1)]))
