@@ -82,7 +82,23 @@ class TreeNode:
 
     def widthOrder(self):
         """层序遍历"""
-        pass
+        level = 0
+        level_map = {self: 1}
+        queue = deque()
+        queue.append(self)
+        while queue:
+            node = queue.popleft()
+            left = node.left
+            right = node.right
+            if left:
+                level_map[left] = level_map[node] + 1
+                queue.append(left)
+            if right:
+                level_map[right] = level_map[node] + 1
+                queue.append(right)
+            if level_map[node] > level:
+                level = level_map[node]
+        return
 
 
 if __name__ == '__main__':

@@ -33,7 +33,7 @@ class Graph:
         ufs = UnionFindSet(self.ns + 1)
         self.edges.sort(key=lambda x: x.weight)
         for edge in self.edges:
-            if not ufs.same(edge.start, edge.end):
+            if not ufs.isSameSet(edge.start, edge.end):
                 ufs.union(edge.start, edge.end)
                 tree.append(edge)
         return tree

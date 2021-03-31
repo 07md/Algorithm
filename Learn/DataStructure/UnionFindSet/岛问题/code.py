@@ -1,16 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/2/2 9:41
-# @File     : BubbleSortCode.py
-# ----------------------------------------------
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
-# >>> Author    : Alex
-# >>> QQ        : 2426671397
-# >>> Mail      : alex18812649207@gmail.com
-# >>> Github    : https://github.com/koking0
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆
-
-
 def infest(matrix, i, j, rows, cols):
     if i < 0 or i > rows - 1 or j < 0 or j > cols - 1 or matrix[i][j] != 1:
         return

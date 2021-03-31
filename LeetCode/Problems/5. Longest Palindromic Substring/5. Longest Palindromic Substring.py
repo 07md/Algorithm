@@ -1,18 +1,22 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/5/21 21:45
-# @File     : 5. Longest Palindromic Substring.py
-# ----------------------------------------------
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆
-# >>> Author    : Alex 007
-# >>> QQ        : 2426671397
-# >>> Mail      : alex18812649207@gmail.com
-# >>> Github    : https://github.com/koking0
-# >>> Blog      : https://alex007.blog.csdn.net/
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆
-
-
 class Solution:
+	def longestPalindrome(self, s: str) -> str:
+		n, ans = len(s), ""
+		dp = [[False] * n for _ in range(n)]
+		for l in range(n):
+			for i in range(n):
+				j = i + l
+				if j >= len(s):
+					break
+				if l == 0:
+					dp[i][j] = True
+				elif l == 1:
+					dp[i][j] = (s[i] == s[j])
+				else:
+					dp[i][j] = (dp[i + 1][j - 1] and s[i] == s[j])
+				if dp[i][j] and l + 1 > len(ans):
+					ans = s[i: j + 1]
+		return ans
+
 	def longestPalindrome_violence(self, s: str) -> str:
 		if len(s) == 1:
 			return s
