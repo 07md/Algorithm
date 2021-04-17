@@ -1,17 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/7/19 9:52
-# @File     : code.py
-# ----------------------------------------------
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
-# >>> Author    : Alex 007
-# >>> QQ        : 2426671397
-# >>> Mail      : alex18812649207@gmail.com
-# >>> Github    : https://github.com/koking0
-# >>> Blog      : https://alex007.blog.csdn.net/
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆
-
-
 def judge(num):
 	strList = list(str(num))
 	return False if '2' in strList or '4' in strList else True

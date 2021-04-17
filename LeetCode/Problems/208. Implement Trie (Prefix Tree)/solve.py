@@ -9,16 +9,13 @@ class Trie:
 	def __init__(self):
 		self.root = TrieNode()
 
-	@staticmethod
-	def get_index(word):
-		return [ord(ch) - ord('a') for ch in word]
-
 	def insert(self, word: str) -> None:
 		if not word:
 			return
 
 		node = self.root
-		for idx in self.get_index(word):
+		for ch in word:
+			idx = ord(ch) - ord('a')
 			if idx not in node.next_nodes:
 				node.next_nodes[idx] = TrieNode()
 			node = node.next_nodes.get(idx)
@@ -30,16 +27,18 @@ class Trie:
 			return False
 
 		node = self.root
-		for idx in self.get_index(word):
+		for ch in word:
+			idx = ord(ch) - ord('a')
 			if idx not in node.next_nodes:
 				return False
 			node = node.next_nodes.get(idx)
 		return node.end != 0
 
-	def delete(self, word: str) -> None:
+	def delete(self, word):
 		if self.search(word):
 			node = self.root
-			for idx in self.get_index(word):
+			for char in word:
+				idx = ord(char) - ord("a")
 				if node.next_node[idx].path - 1 == 0:
 					node.next_node[idx].path -= 1
 					node.next_node[idx] = None
@@ -52,7 +51,8 @@ class Trie:
 			return False
 
 		node = self.root
-		for idx in self.get_index(prefix):
+		for ch in prefix:
+			idx = ord(ch) - ord('a')
 			if idx not in node.next_nodes:
 				return False
 			node = node.next_nodes[idx]

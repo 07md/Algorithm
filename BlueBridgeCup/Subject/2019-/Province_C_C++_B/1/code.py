@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/7/17 9:23
-# @File     : code.py
-# ----------------------------------------------
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
-# >>> Author    : Alex 007
-# >>> QQ        : 2426671397
-# >>> Mail      : alex18812649207@gmail.com
-# >>> Github    : https://github.com/koking0
-# >>> Blog      : https://alex007.blog.csdn.net/
-# ☆ ☆ ☆ ☆ ☆ ☆ ☆
 if __name__ == '__main__':
 	ans, team = 0, [[1, 97, 90, 0, 0, 0],
 	                [2, 92, 85, 96, 0, 0],
