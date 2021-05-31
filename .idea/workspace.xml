@@ -33,11 +33,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-05-25">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/1190. Reverse Substrings Between Each Pair of Parentheses/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/231. Power of Two/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/WeeklyCompetition/243/5772. 检查某单词是否等于两单词之和/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/WeeklyCompetition/243/5773. 插入后的最大值/solve.py" afterDir="false" />
+    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-05-30">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/1108. Defanging an IP Address/solve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/342. Power of Four/solve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -531,14 +529,8 @@
       <workItem from="1621470167388" duration="1651000" />
       <workItem from="1621901636021" duration="1641000" />
       <workItem from="1621988551451" duration="3651000" />
-      <workItem from="1622340069420" duration="6305000" />
-    </task>
-    <task id="LOCAL-00027" summary="2020-10-30">
-      <created>1604032962193</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1604032962193</updated>
+      <workItem from="1622340069420" duration="6327000" />
+      <workItem from="1622423654224" duration="622000" />
     </task>
     <task id="LOCAL-00028" summary="2020-11-5">
       <created>1604546806624</created>
@@ -876,7 +868,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621904220696</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="2021-05-30">
+      <created>1622349226874</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1622349226874</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -908,7 +907,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021-2-5" />
     <MESSAGE value="2021-2-6" />
     <MESSAGE value="2021-2-8" />
     <MESSAGE value="2021-2-9" />
@@ -933,7 +931,8 @@
     <MESSAGE value="2021-05-18" />
     <MESSAGE value="2021-05-20" />
     <MESSAGE value="2021-05-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-05-25" />
+    <MESSAGE value="2021-05-30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-05-30" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$152__Maximum_Product_Subarray.coverage" NAME="152. Maximum Product Subarray Coverage Results" MODIFIED="1589811620825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/152. Maximum Product Subarray" />
