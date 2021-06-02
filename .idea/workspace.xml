@@ -33,9 +33,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-05-30">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/1108. Defanging an IP Address/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/342. Power of Four/solve.py" afterDir="false" />
+    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-05-31">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/1863. Sum of All Subset XOR Totals/solve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/523. Continuous Subarray Sum/solve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -530,14 +530,8 @@
       <workItem from="1621901636021" duration="1641000" />
       <workItem from="1621988551451" duration="3651000" />
       <workItem from="1622340069420" duration="6327000" />
-      <workItem from="1622423654224" duration="622000" />
-    </task>
-    <task id="LOCAL-00028" summary="2020-11-5">
-      <created>1604546806624</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1604546806624</updated>
+      <workItem from="1622423654224" duration="1096000" />
+      <workItem from="1622594247016" duration="2690000" />
     </task>
     <task id="LOCAL-00029" summary="2020-12-8">
       <created>1607402293932</created>
@@ -875,7 +869,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622349226874</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="2021-05-31">
+      <created>1622424544430</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1622424544430</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -907,7 +908,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021-2-6" />
     <MESSAGE value="2021-2-8" />
     <MESSAGE value="2021-2-9" />
     <MESSAGE value="2021-2-10" />
@@ -932,7 +932,8 @@
     <MESSAGE value="2021-05-20" />
     <MESSAGE value="2021-05-25" />
     <MESSAGE value="2021-05-30" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-05-30" />
+    <MESSAGE value="2021-05-31" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-05-31" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$152__Maximum_Product_Subarray.coverage" NAME="152. Maximum Product Subarray Coverage Results" MODIFIED="1589811620825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/152. Maximum Product Subarray" />
