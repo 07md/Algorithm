@@ -1,30 +1,30 @@
-def getNextArray(arr):
-    if len(arr) == 1:
-        return [-1]
-
-    next_array = [0 for _ in range(len(arr))]
-    next_array[0] = -1
-    idx, cn = 2, 0
-    while idx < len(arr):
-        if arr[idx - 1] == arr[cn]:
-            next_array[idx] = cn + 1
-            idx += 1
-            cn += 1
-        elif cn > 0:
-            cn = next_array[cn]
-        else:
-            next_array[idx] = 0
-            idx += 1
-    return next_array
-
-
 def KMP(pattern, target):
-    if not pattern or not target or len(pattern) < len(target):
+    def get_next_index(arr):
+        if len(arr) == 1:
+            return [-1]
+
+        next_index = [-1, 0]
+        idx, cn = 2, 0
+        while idx < len(arr):
+            if arr[idx - 1] == arr[cn]:
+                next_index.append(cn + 1)
+                idx += 1
+                cn += 1
+            elif cn > 0:
+                cn = next_index[cn]
+            else:
+                next_index.append(0)
+                idx += 1
+        return next_index
+
+    if not target:
+        return 0
+    if not pattern or len(pattern) < len(target):
         return -1
 
     pattern, target = list(pattern), list(target)
     idx1, idx2 = 0, 0
-    next_array = getNextArray(target)
+    next_array = get_next_index(target)
     while idx1 < len(pattern) and idx2 < len(target):
         if pattern[idx1] == target[idx2]:
             idx1 += 1
