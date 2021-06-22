@@ -33,9 +33,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-06-08">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/53. Maximum Subarray/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/879. Profitable Schemes/solve.py" afterDir="false" />
+    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-06-09">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/401. Binary Watch/solve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/SQL/627. Swap Salary/solve.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/剑指 Offer/38. 字符串的排列/solve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +117,7 @@
       <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\Simulation_2\Python组\4.括号序列" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solve (2)">
+  <component name="RunManager" selected="Python.solve">
     <configuration name="solve (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solve (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="solve (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,12 +192,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/1190. Reverse Substrings Between Each Pair of Parentheses" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/401. Binary Watch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/1190. Reverse Substrings Between Each Pair of Parentheses/solve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/401. Binary Watch/solve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,12 +214,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Problems/692. Top K Frequent Words" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/剑指 Offer/38. 字符串的排列" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Problems/692. Top K Frequent Words/solve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/剑指 Offer/38. 字符串的排列/solve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solve" />
+        <item itemvalue="Python.solve (5)" />
         <item itemvalue="Python.solve (2)" />
         <item itemvalue="Python.solve (1)" />
         <item itemvalue="Python.solve (3)" />
-        <item itemvalue="Python.solve (4)" />
-        <item itemvalue="Python.solve" />
       </list>
     </recent_temporary>
   </component>
@@ -535,14 +536,8 @@
       <workItem from="1622682059000" duration="3121000" />
       <workItem from="1623112518244" duration="2745000" />
       <workItem from="1623199196190" duration="2249000" />
-      <workItem from="1623201605697" duration="308000" />
-    </task>
-    <task id="LOCAL-00032" summary="2021-1-26">
-      <created>1611630406657</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1611630406658</updated>
+      <workItem from="1623201605697" duration="574000" />
+      <workItem from="1624237153821" duration="4325000" />
     </task>
     <task id="LOCAL-00033" summary="2021-1-27">
       <created>1611715481552</created>
@@ -880,7 +875,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623116691794</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="2021-06-09">
+      <created>1623202151427</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1623202151427</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -912,7 +914,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021-2-11" />
     <MESSAGE value="2021-2-15" />
     <MESSAGE value="2021-2-16" />
     <MESSAGE value="2021-02-19" />
@@ -937,7 +938,8 @@
     <MESSAGE value="2021-06-02" />
     <MESSAGE value="2021-06-03" />
     <MESSAGE value="2021-06-08" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-06-08" />
+    <MESSAGE value="2021-06-09" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-06-09" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$152__Maximum_Product_Subarray.coverage" NAME="152. Maximum Product Subarray Coverage Results" MODIFIED="1589811620825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/152. Maximum Product Subarray" />
@@ -988,7 +990,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$394__Decode_String.coverage" NAME="394. Decode String Coverage Results" MODIFIED="1590629683287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/394. Decode String" />
     <SUITE FILE_PATH="coverage/Algorithm$bellman_ford.coverage" NAME="bellman-ford Coverage Results" MODIFIED="1612012067836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/ShortestPaths" />
     <SUITE FILE_PATH="coverage/Algorithm$70__Climbing_Stairs.coverage" NAME="70. Climbing Stairs Coverage Results" MODIFIED="1592024029650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/70. Climbing Stairs" />
-    <SUITE FILE_PATH="coverage/Algorithm$solve__5_.coverage" NAME="solve (5) Coverage Results" MODIFIED="1618448287405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/213. House Robber II" />
+    <SUITE FILE_PATH="coverage/Algorithm$solve__5_.coverage" NAME="solve (5) Coverage Results" MODIFIED="1624238765560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/401. Binary Watch" />
     <SUITE FILE_PATH="coverage/Algorithm$code__2_.coverage" NAME="code (2) Coverage Results" MODIFIED="1613616928330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Subject/2017/Province_C_C++_C/1" />
     <SUITE FILE_PATH="coverage/Algorithm$2.coverage" NAME="2 Coverage Results" MODIFIED="1587384414526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$PREV_40_k.coverage" NAME="PREV-40-k倍区间 Coverage Results" MODIFIED="1605260312561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlueBridgeCup/Exercises/历届试题" />
