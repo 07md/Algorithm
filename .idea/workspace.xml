@@ -33,10 +33,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-06-09">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/401. Binary Watch/solve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/SQL/627. Swap Salary/solve.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/剑指 Offer/38. 字符串的排列/solve.py" afterDir="false" />
+    <list default="true" id="ea81da3e-0563-4de4-a840-634edc961e6f" name="Default Changelist" comment="2021-06-22">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Problems/98. Validate Binary Search Tree/solve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/剑指 Offer/15. 二进制中1的个数/solve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +116,7 @@
       <recent name="G:\Algorithm\BlueBridgeCup\Subject\2020-\Simulation_2\Python组\4.括号序列" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solve">
+  <component name="RunManager" selected="Python.solve (4)">
     <configuration name="solve (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solve (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="solve (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,12 +169,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/WeeklyCompetition/243/5772. 检查某单词是否等于两单词之和" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/剑指 Offer/15. 二进制中1的个数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/WeeklyCompetition/243/5772. 检查某单词是否等于两单词之和/solve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/剑指 Offer/15. 二进制中1的个数/solve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solve (4)" />
         <item itemvalue="Python.solve" />
         <item itemvalue="Python.solve (5)" />
         <item itemvalue="Python.solve (2)" />
         <item itemvalue="Python.solve (1)" />
-        <item itemvalue="Python.solve (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -537,14 +536,8 @@
       <workItem from="1623112518244" duration="2745000" />
       <workItem from="1623199196190" duration="2249000" />
       <workItem from="1623201605697" duration="574000" />
-      <workItem from="1624237153821" duration="4325000" />
-    </task>
-    <task id="LOCAL-00033" summary="2021-1-27">
-      <created>1611715481552</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1611715481552</updated>
+      <workItem from="1624237153821" duration="4609000" />
+      <workItem from="1624411663322" duration="957000" />
     </task>
     <task id="LOCAL-00034" summary="最小生成树">
       <created>1611724326764</created>
@@ -882,7 +875,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623202151427</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="2021-06-22">
+      <created>1624356686364</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1624356686364</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -914,7 +914,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2021-2-15" />
     <MESSAGE value="2021-2-16" />
     <MESSAGE value="2021-02-19" />
     <MESSAGE value="2021-02-21" />
@@ -939,13 +938,14 @@
     <MESSAGE value="2021-06-03" />
     <MESSAGE value="2021-06-08" />
     <MESSAGE value="2021-06-09" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-06-09" />
+    <MESSAGE value="2021-06-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-06-22" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$152__Maximum_Product_Subarray.coverage" NAME="152. Maximum Product Subarray Coverage Results" MODIFIED="1589811620825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/152. Maximum Product Subarray" />
-    <SUITE FILE_PATH="coverage/Algorithm$solve.coverage" NAME="solve Coverage Results" MODIFIED="1621473160982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/692. Top K Frequent Words" />
+    <SUITE FILE_PATH="coverage/Algorithm$solve.coverage" NAME="solve Coverage Results" MODIFIED="1624356603518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/剑指 Offer/38. 字符串的排列" />
     <SUITE FILE_PATH="coverage/Algorithm$code__1_.coverage" NAME="code (1) Coverage Results" MODIFIED="1614047035351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/1052. Grumpy Bookstore Owner" />
-    <SUITE FILE_PATH="coverage/Algorithm$solve__4_.coverage" NAME="solve (4) Coverage Results" MODIFIED="1621992652177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/1190. Reverse Substrings Between Each Pair of Parentheses" />
+    <SUITE FILE_PATH="coverage/Algorithm$solve__4_.coverage" NAME="solve (4) Coverage Results" MODIFIED="1624411842015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/剑指 Offer/15. 二进制中1的个数" />
     <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="太极 Coverage Results" MODIFIED="1590743731172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithm$kruskal.coverage" NAME="kruskal Coverage Results" MODIFIED="1614498280797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/DataStructure/Graph/MinimumSpanningTree" />
     <SUITE FILE_PATH="coverage/Algorithm$code__5_.coverage" NAME="code (5) Coverage Results" MODIFIED="1613790732260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Problems/697. Degree of an Array" />
