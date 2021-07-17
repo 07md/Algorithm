@@ -2,5 +2,5 @@
 *.html
 *.mp4
 *.zip
-.idea
+.idea/
 .gitignore
