@@ -11,9 +11,9 @@ class TreeNode:
             return
         print(self.value, end=' ')
         if self.left:
-            self.left.preOrderRecursive()
+            self.left.pre_order_recursive()
         if self.right:
-            self.right.preOrderRecursive()
+            self.right.pre_order_recursive()
 
     def inOrderRecursive(self):
         """ 中序遍历（递归） """

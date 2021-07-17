@@ -1,46 +1,44 @@
 from collections import deque
 
 
-class Node:
-	def __init__(self, value=None):
-		self.value, self.left, self.right = value, None, None
+class TreeNode:
+    def __init__(self, value=None):
+        self.value, self.left, self.right = value, None, None
 
-	def preSerial(self):
-		if self is None:
-			return "#!"
-		string = str(self.value) + "!"
-		string += Node.preSerial(self.left)
-		string += Node.preSerial(self.right)
-		return string
+    def pre_order_recursive(self):
+        if self is None:
+            return
+        print(self.value, end=' ')
+        if self.left:
+            self.left.pre_order_recursive()
+        if self.right:
+            self.right.pre_order_recursive()
 
-	@staticmethod
-	def preStringDeserialization(string):
-		values, queue = string.split("!"), deque()
-		for value in values:
-			queue.append(value)
-		return Node.preDeserialization(queue)
 
-	@staticmethod
-	def preDeserialization(queue):
-		if queue:
-			value = queue.popleft()
-			if value == "#":
-				return
-			temp = Node(value)
-			temp.left = Node.preDeserialization(queue)
-			temp.right = Node.preDeserialization(queue)
-			return temp
+def pre_order_serialize(node: TreeNode):
+    if node is None:
+        return "#!"
+    string = str(node.value) + '!'
+    string += pre_order_serialize(node.left)
+    string += pre_order_serialize(node.right)
+    return string
 
-	def inOrderRecursive(self):
-		if self is None:
-			return
-		if self.left:
-			self.left.inOrderRecursive()
-		print(self.value, end=' ')
-		if self.right:
-			self.right.inOrderRecursive()
+
+def pre_order_deserialize(string):
+    def dfs(que):
+        if que:
+            val = que.popleft()
+            if val == '#':
+                return
+            tmp = TreeNode(val)
+            tmp.left = dfs(que)
+            tmp.right = dfs(que)
+            return tmp
+
+    queue = deque(string.split('!'))
+    return dfs(queue)
 
 
 if __name__ == '__main__':
-	node = Node.preStringDeserialization("1!2!4!#!#!5!#!#!3!6!#!#!7!#!#!")
-	print(node.inOrderRecursive())
+    root = pre_order_deserialize("1!2!4!#!#!5!#!#!3!6!#!#!7!#!#!")
+    print(root.pre_order_recursive())
