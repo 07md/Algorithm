@@ -25,12 +25,12 @@ if __name__ == '__main__':
 	for i in range(len(seq)):
 		if seq[i][0] == 0:  # 前缀降序
 			while right > seq[i][1] and left <= right:
-				nums[right - 1] = k
+				nums[right - 1] = k		# 从后往前设置
 				right -= 1
 				k -= 1
 		else:  # 后缀升序
 			while left < seq[i][1] and left <= right:
-				nums[left - 1] = k
+				nums[left - 1] = k		# 从前往后设置
 				left += 1
 				k -= 1
 		if left > right:
@@ -41,7 +41,7 @@ if __name__ == '__main__':
 			nums[left - 1] = k
 			left += 1
 			k -= 1
-	else:
+	else:				# 最后一次操作为后缀升序
 		while left <= right:
 			nums[right - 1] = k
 			right -= 1
