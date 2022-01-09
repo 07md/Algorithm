@@ -1,13 +1,13 @@
 #include <string>
-#include <iostream> 
+#include <iostream>
+#include <algorithm>
 
 using namespace std;
 
 int main() {
 	string str;
 	while (getline(cin, str)) {
-		while (str.find("you") != string::npos)
-			str.replace(str.find("you"), 3, "we");
+		replace(str.begin(), str.end(), "you", "we");
 		cout << str << endl;
 	}
 	return 0;
