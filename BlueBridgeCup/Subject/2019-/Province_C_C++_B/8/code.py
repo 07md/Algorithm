@@ -3,11 +3,11 @@ def gcd(a, b):
 
 
 if __name__ == '__main__':
-	N = int(input())
-	A = list(map(int, input().split(' ')))
-	A.sort()
-	diff = [A[i] - A[i - 1] for i in range(1, len(A))]
+	n = int(input())
+	nums = list(map(int, input().split(' ')))
+	nums.sort()
+	diff = [nums[i] - nums[i - 1] for i in range(1, n)]
 	ans = gcd(diff[0], diff[1])
 	for i in range(2, len(diff)):
 		ans = gcd(ans, diff[i])
-	print(((A[-1] - A[0]) // ans) + 1 if ans else N)
+	print(((nums[-1] - nums[0]) // ans) + 1)
