@@ -1,29 +1,28 @@
+[](./image/img.png)
+
+题目链接：[https://www.lanqiao.cn/courses/2786/learning/?id=67815](https://www.lanqiao.cn/courses/2786/learning/?id=67815)
+
 ## Ideas
 
-本来一开始想到的是质数筛，但是埃式筛是用来筛选 n 以内的所有质数，并不能找到第 n 个质数，除非找到一个足够大的 n 能够把第 2019 个质数包含进去。
-
-可能质数筛还有升级，能够用来找到第 n 个质数，挖个坑，后面研究一下。
-
-所以这题就用来最原始的方法：通过一个函数 `is_primer()` 来判断一个数是不是质数，逻辑就是从2开始检查，一直到根号n为止，如果发现n的约数，那么就说明n不是质数。
+对于一个矩形来说，能切割下来的正方形肯定是以较短的那条边为边长，然后切出来一个正方形，然后长边要减去短边，直到两边相等为止。
 
 ## Code
 
-### Python
-
 ```python
-def is_primer(n):
-	for i in range(2, int((n ** 0.5) + 1)):
-		if n % i == 0:
-			return False
-	return True
-
-
 if __name__ == '__main__':
-	num = 2
-	primer_num = list()
-	while len(primer_num) < 2019:
-		if is_primer(num):
-			primer_num.append(num)
-		num += 1
-	print(primer_num[-1])
+    a, b, ans = 2019, 324, 0
+    while a != b:
+        ans += 1
+        if a > b:
+            a -= b
+            print(f"切一个 {b} * {b} 的正方形")
+        elif a < b:
+            b -= a
+            print(f"切一个 {a} * {a} 的正方形")
+    else:
+        print(f"剩一个 {a} * {a} 的正方形")
+        ans += 1
+    print(f"ans = {ans}")
 ```
+
+## Answer: 21

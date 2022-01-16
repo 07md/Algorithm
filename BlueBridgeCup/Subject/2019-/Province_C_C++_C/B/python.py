@@ -1,15 +1,14 @@
-def is_primer(n):
-	for i in range(2, int((n ** 0.5) + 1)):
-		if n % i == 0:
-			return False
-	return True
-
-
 if __name__ == '__main__':
-	num = 2
-	primer_num = list()
-	while len(primer_num) < 2019:
-		if is_primer(num):
-			primer_num.append(num)
-		num += 1
-	print(primer_num[-1])
+    a, b, ans = 2019, 324, 0
+    while a != b:
+        ans += 1
+        if a > b:
+            a -= b
+            print(f"切一个 {b} * {b} 的正方形")
+        elif a < b:
+            b -= a
+            print(f"切一个 {a} * {a} 的正方形")
+    else:
+        print(f"剩一个 {a} * {a} 的正方形")
+        ans += 1
+    print(f"ans = {ans}")
