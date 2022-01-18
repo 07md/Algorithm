@@ -1,9 +1,6 @@
-import sys
-
-
 def dfs():
     global pos
-    res = tmp = 0
+    res, tmp = 0, 0
     while pos < len(s):
         if s[pos] == '(':
             pos += 1
@@ -24,7 +21,6 @@ def dfs():
 
 
 if __name__ == '__main__':
-    sys.setrecursionlimit(10000)
     pos = 0
-    s = input()
+    s = input().strip()
     print(dfs())
