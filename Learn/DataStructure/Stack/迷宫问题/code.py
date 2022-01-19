@@ -36,7 +36,7 @@ def findMazePath(startX, startY, endX, endY):
 			if maze[nextStep[0]][nextStep[1]] == 0:
 				# 1.添加到路径中
 				pathStack.append(nextStep)
-				# 2.标记为已走过
+				# B.标记为已走过
 				maze[nextStep[0]][nextStep[1]] = 2
 				break
 		else:

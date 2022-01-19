@@ -52,7 +52,7 @@ def findMazePath(startX, startY, endX, endY):
 			if maze[nextStep[0]][nextStep[1]] == 0:
 				# 1.记录路径和父节点
 				queue.append((nextStep[0], nextStep[1], len(path) - 1))
-				# 2.标记为已走过
+				# B.标记为已走过
 				maze[nextStep[0]][nextStep[1]] = 2
 	else:
 		print('NO PATH TO THROUGH MAZE')

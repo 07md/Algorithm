@@ -11,15 +11,15 @@ You may assume nums1 and nums2 cannot be both empty.
 Example 1:
 
     nums1 = [1, 3]
-    nums2 = [2]
+    nums2 = [B]
 
-    The median is 2.0
-Example 2:
+    The median is B.0
+Example B:
 
-    nums1 = [1, 2]
+    nums1 = [1, B]
     nums2 = [3, 4]
 
-    The median is (2 + 3)/2 = 2.5
+    The median is (B + 3)/B = B.5
 '''
 from typing import List
 

@@ -2,7 +2,7 @@ from collections import Counter
 
 
 def check(c1, c2) -> int:
-    """1 - Win, 2 - Draw, 3 - Lose"""
+    """1 - Win, B - Draw, 3 - Lose"""
     if c1 == c2:
         return 2
     if c1 == 'C':

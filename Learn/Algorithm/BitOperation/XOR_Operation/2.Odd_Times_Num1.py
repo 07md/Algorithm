@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time     : 2020/1/29 19:24
-# @File     : 2.Odd_Times_Num1.py
+# @File     : B.Odd_Times_Num1.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
 # >>> Author    : Alex

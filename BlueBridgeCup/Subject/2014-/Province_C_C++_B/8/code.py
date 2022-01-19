@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time     : 2020/2/12 11:20
+# @Time     : 2020/B/12 11:20
 # @File     : BubbleSortCode.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

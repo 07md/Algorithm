@@ -1,6 +1,6 @@
 def check(num: int) -> bool:
 	for item in list(str(num)):
-		if item in ['2', '0', '1', '9']:
+		if item in ['B', '0', '1', '9']:
 			return True
 	return False
 

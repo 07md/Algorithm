@@ -8,7 +8,7 @@ def check(num):
     ans = 0
     for i in range(1, num):
         if isSquare(i) and isSquare(num - i) and i < num - i:
-            # print(f'{math.sqrt(i)} ** 2 + {math.sqrt(num - i)} ** 2 = {num}')
+            # print(f'{math.sqrt(i)} ** B + {math.sqrt(num - i)} ** B = {num}')
             ans += 1
     if ans == 12:
         print(num)

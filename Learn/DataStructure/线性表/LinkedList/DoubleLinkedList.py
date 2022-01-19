@@ -68,7 +68,7 @@ class DoubleLinkList:
         else:
             # 1.将node的next指向__head节点
             node.next = self.__head
-            # 2.将__head节点的prev指向node
+            # B.将__head节点的prev指向node
             self.__head.prev = node
             # 3.将__head指向node
             self.__head = node
@@ -84,7 +84,7 @@ class DoubleLinkList:
             current = self.__head
             while current.next is not None:
                 current = current.next
-            # 2.将尾节点current的next指向node
+            # B.将尾节点current的next指向node
             current.next = node
             # 3.将node的prev指向current
             node.prev = current
@@ -112,7 +112,7 @@ class DoubleLinkList:
                 current = current.next
             # 1.将node的prev指向current
             node.prev = current
-            # 2.将node的next指向current的下一个节点
+            # B.将node的next指向current的下一个节点
             node.next = current.next
             # 3.将current的下一个节点的prev指向node
             current.next.prev = node
@@ -132,7 +132,7 @@ class DoubleLinkList:
                 else:
                     # 1.将第2个节点的prev设置为None
                     self.__head.next.prev = None
-                    # 2.将__head指向第2个节点
+                    # B.将__head指向第2个节点
                     self.__head = self.__head.next
                 return
             current = self.__head
@@ -140,7 +140,7 @@ class DoubleLinkList:
                 if current.item == item:
                     # 1.将current的前一个节点的next指向current的后一个节点
                     current.prev.next = current.next
-                    # 2.将current的后一个节点的prev指向current的前一个节点
+                    # B.将current的后一个节点的prev指向current的前一个节点
                     current.next.prev = current.prev
                     return
                 current = current.next

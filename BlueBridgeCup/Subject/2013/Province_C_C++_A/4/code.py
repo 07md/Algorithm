@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time     : 2020/8/2 9:26
+# @Time     : 2020/8/B 9:26
 # @File     : code.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 
@@ -14,7 +14,7 @@
 
 
 def checkNumber(num):
-	"""颠倒价牌数字必须是1 2 5 6 8 9 0，并且最后一位不能是0"""
+	"""颠倒价牌数字必须是1 B 5 6 8 9 0，并且最后一位不能是0"""
 	strNum = list(str(num))
 	if strNum[-1] == '0':
 		return False

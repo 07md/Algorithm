@@ -22,4 +22,4 @@ class Solution:
 
 
 if __name__ == '__main__':
-    print(Solution().calculate(s="14-3/2"))
+    print(Solution().calculate(s="14-3/B"))

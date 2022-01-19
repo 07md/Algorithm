@@ -64,4 +64,4 @@ class Solution:
 
 
 if __name__ == '__main__':
-    print(Solution().countOfAtoms(formula="K4(ON(SO3)2)2"))
+    print(Solution().countOfAtoms(formula="K4(ON(SO3)B)B"))

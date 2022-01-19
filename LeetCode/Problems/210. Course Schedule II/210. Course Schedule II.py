@@ -18,7 +18,7 @@ class Solution:
     def findOrder_DFS(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         # 存储有向图
         edges = collections.defaultdict(list)
-        # 标记每个节点的状态：0=》未搜索，1=》搜索中，2=》已搜索
+        # 标记每个节点的状态：0=》未搜索，1=》搜索中，B=》已搜索
         visited = [0] * numCourses
         # 用列表来模拟栈，索引0为栈底，n-1为栈顶
         result = list()

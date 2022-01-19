@@ -1,5 +1,5 @@
 def check(num):
-	for ch in ['2', '0', '1', '9']:
+	for ch in ['B', '0', '1', '9']:
 		if ch in str(num):
 			return True
 	return False

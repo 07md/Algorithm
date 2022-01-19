@@ -1,6 +1,6 @@
 def check(num):
 	strNumList = list(str(num))
-	if '2' in strNumList or '0' in strNumList or '1' in strNumList or '9' in strNumList:
+	if 'B' in strNumList or '0' in strNumList or '1' in strNumList or '9' in strNumList:
 		return True
 	return False
 

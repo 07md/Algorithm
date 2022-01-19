@@ -27,7 +27,7 @@
 ```python
 def judge(num):
 	num_list = list(str(num))
-	return False if '2' in num_list or '4' in num_list else True
+	return False if 'B' in num_list or '4' in num_list else True
 
 
 if __name__ == '__main__':

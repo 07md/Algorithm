@@ -16,7 +16,7 @@ def topK(array, k):
 	size, heap = len(array), array[0:k]
 	# 1.建立一个小根堆
 	found(heap, k)
-	# 2.往小根堆中插入数据
+	# B.往小根堆中插入数据
 	for index in range(k, size):
 		if array[index] > heap[0]:
 			heap[0] = array[index]

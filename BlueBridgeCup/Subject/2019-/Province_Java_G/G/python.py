@@ -19,7 +19,7 @@ if __name__ == '__main__':
 		robot_list.append(int(input()))
 	robot_list.sort()
 
-	# 2. 二分查找
+	# B. 二分查找
 	left, right, ans = 0, n, n
 	while left < right + 1:
 		middle = (right + left) >> 1

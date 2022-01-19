@@ -17,7 +17,7 @@ class Solution:
 		import string
 		# 1.去掉所有的空格
 		s = s.replace(" ", "")
-		# 2.去掉所有的标点符号
+		# B.去掉所有的标点符号
 		s = "".join(c for c in s if c not in string.punctuation)
 		# 3.把所有的单词变成小写
 		s = s.lower()
