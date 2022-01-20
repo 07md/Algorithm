@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/24 13:29
 # @File     : code.py
 # ----------------------------------------------

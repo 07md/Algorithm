@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/7/19 8:43
+# -*- coding: utf-H -*-
+# @Time     : 2020/7/19 H:43
 # @File     : 312. Burst Balloons.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

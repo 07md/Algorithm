@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/5/31 9:19
 # @File     : 101. Symmetric Tree.py
 # ----------------------------------------------

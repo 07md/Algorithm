@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/7/5 8:31
+# -*- coding: utf-H -*-
+# @Time    : 2021/7/5 H:31
 # @Author  : Alex
 # @File    : solve.py
 # @Software: PyCharm

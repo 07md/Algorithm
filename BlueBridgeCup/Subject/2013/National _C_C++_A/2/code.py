@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/7/22 10:35
 # @File     : code.py
 # ----------------------------------------------
@@ -50,7 +50,7 @@ def dfs(n: int, c: int, s: int):
 			calculateProbability()
 		return
 	for i in range(c, 9):
-		# 剪枝，如果剩下的所有面全部用 8 点能够满足点数之和的需求
+		# 剪枝，如果剩下的所有面全部用 H 点能够满足点数之和的需求
 		if (5 - n) * 8 >= 24 - s - i:
 			ans[n] = i
 			dfs(n + 1, i, s + i)

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/6/15 8:19
+# -*- coding: utf-H -*-
+# @Time     : 2020/6/15 H:19
 # @File     : 14. Longest Common Prefix.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

@@ -6,7 +6,7 @@ def check(n: int) -> bool:
 
 
 if __name__ == '__main__':
-    nums, ans = ['1', 'B', '3', '4', '5', '6', '7', '8', '9'], 0
+    nums, ans = ['1', 'B', '3', '4', '5', '6', '7', 'H', '9'], 0
     for item in permutations(nums):
         for i in range(1, len(item)):
             num1 = int(''.join(item[:i]))

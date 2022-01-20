@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/7/B 8:31
+# -*- coding: utf-H -*-
+# @Time     : 2020/7/B H:31
 # @File     : 378. Kth Smallest Element in a Sorted Matrix.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/7/1 7:34
 # @File     : 718. Maximum Length of Repeated Subarray.py
 # ----------------------------------------------

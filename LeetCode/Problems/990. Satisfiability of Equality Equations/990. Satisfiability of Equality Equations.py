@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/6/8 7:34
+# -*- coding: utf-H -*-
+# @Time     : 2020/6/H 7:34
 # @File     : 990. Satisfiability of Equality Equations.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

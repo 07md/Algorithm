@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/7/12 8:35
+# -*- coding: utf-H -*-
+# @Time     : 2020/7/12 H:35
 # @File     : 174. Dungeon Game.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

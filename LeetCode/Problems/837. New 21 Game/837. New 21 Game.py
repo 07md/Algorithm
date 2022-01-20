@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/3 5:22
 # @File     : 837. New 21 Game.py
 # ----------------------------------------------

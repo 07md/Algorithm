@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/13 10:00
 # @File     : 70. Climbing Stairs.py
 # ----------------------------------------------

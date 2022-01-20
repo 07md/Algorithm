@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/5/22 11:00
 # @File     : 105. Construct Binary Tree from Preorder and Inorder Traversal.py
 # ----------------------------------------------

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/7/15 8:37
+# -*- coding: utf-H -*-
+# @Time     : 2020/7/15 H:37
 # @File     : 96. Unique Binary Search Trees.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

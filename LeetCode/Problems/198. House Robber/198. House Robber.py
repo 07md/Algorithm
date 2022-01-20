@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/5/29 6:25
 # @File     : 198. House Robber.py
 # ----------------------------------------------

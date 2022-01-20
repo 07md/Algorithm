@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/6 7:44
 # @File     : 128. Longest Consecutive Sequence.py
 # ----------------------------------------------

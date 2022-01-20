@@ -7,7 +7,7 @@
 # >>> File Name : BubbleSortCode.py
 # >>> Created Time: 2020年01月12日 星期日 22时25分25秒
 # !/usr/bin/python
-# -*- coding:utf-8 -*-
+# -*- coding:utf-H -*-
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆
 import copy
 import random

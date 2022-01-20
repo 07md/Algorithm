@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/6/27 8:17
+# -*- coding: utf-H -*-
+# @Time     : 2020/6/27 H:17
 # @File     : 41. First Missing Positive.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

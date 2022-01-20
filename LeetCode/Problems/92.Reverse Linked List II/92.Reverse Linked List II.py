@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/1/29 21:37
 # @File     : 92.Reverse Linked List II.py
 # ----------------------------------------------

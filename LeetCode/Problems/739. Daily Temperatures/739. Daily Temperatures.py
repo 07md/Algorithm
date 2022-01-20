@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/6/11 8:54
+# -*- coding: utf-H -*-
+# @Time     : 2020/6/11 H:54
 # @File     : 739. Daily Temperatures.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

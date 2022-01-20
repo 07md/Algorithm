@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/1/29 19:07
 # @File     : 1.XOR_swap.py
 # ----------------------------------------------

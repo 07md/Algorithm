@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/7/16 8:31
+# -*- coding: utf-H -*-
+# @Time     : 2020/7/16 H:31
 # @File     : 785. Is Graph Bipartite.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/1/28 16:27
 # @File     : 3061.Subsequence.py
 # ----------------------------------------------

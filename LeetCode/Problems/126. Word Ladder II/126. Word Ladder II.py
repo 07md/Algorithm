@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/6/7 8:30
+# -*- coding: utf-H -*-
+# @Time     : 2020/6/7 H:30
 # @File     : 126. Word Ladder II.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

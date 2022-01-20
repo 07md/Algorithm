@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/7/13 9:15
 # @File     : 350. Intersection of Two Arrays II.py
 # ----------------------------------------------

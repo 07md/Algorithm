@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/7/10 8:04
+# -*- coding: utf-H -*-
+# @Time     : 2020/7/10 H:04
 # @File     : 309. Best Time to Buy and Sell Stock with Cooldown.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

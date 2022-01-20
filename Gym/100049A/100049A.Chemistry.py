@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/1/28 13:13
 # @File     : 100049A.Chemistry.py
 # ----------------------------------------------

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/4/22 21:24
 # @File     : KMP.py
 # ----------------------------------------------

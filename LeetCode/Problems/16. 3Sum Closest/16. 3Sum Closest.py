@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/6/24 8:36
+# -*- coding: utf-H -*-
+# @Time     : 2020/6/24 H:36
 # @File     : 16. 3Sum Closest.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/5/18 21:22
 # @File     : 152. Maximum Product Subarray.py
 # ----------------------------------------------

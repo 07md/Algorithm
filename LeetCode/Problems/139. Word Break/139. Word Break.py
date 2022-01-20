@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/25 7:59
 # @File     : 139. Word Break.py
 # ----------------------------------------------

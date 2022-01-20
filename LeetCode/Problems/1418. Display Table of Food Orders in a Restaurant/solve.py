@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time    : 2021/7/6 9:19
 # @Author  : Alex
 # @File    : solve.py

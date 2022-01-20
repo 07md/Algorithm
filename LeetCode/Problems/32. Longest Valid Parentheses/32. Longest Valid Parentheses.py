@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/7/4 8:41
+# -*- coding: utf-H -*-
+# @Time     : 2020/7/4 H:41
 # @File     : 32. Longest Valid Parentheses.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

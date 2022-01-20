@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/23 7:40
 # @File     : 67. Add Binary.py
 # ----------------------------------------------

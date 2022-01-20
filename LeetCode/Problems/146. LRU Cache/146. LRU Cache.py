@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/5/25 22:09
 # @File     : 146. LRU Cache.py
 # ----------------------------------------------

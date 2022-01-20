@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/5/26 8:13
+# -*- coding: utf-H -*-
+# @Time     : 2020/5/26 H:13
 # @File     : 287. Find the Duplicate Number.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

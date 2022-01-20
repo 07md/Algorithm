@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/28 7:59
 # @File     : 209. Minimum Size Subarray Sum.py
 # ----------------------------------------------

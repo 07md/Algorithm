@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/17 7:47
 # @File     : 1014. Best Sightseeing Pair.py
 # ----------------------------------------------

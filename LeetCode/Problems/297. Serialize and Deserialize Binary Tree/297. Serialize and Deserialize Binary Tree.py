@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/6/16 8:03
+# -*- coding: utf-H -*-
+# @Time     : 2020/6/16 H:03
 # @File     : 297. Serialize and Deserialize Binary Tree.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

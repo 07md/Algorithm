@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/5/27 8:27
+# -*- coding: utf-H -*-
+# @Time     : 2020/5/27 H:27
 # @File     : 974. Subarray Sums Divisible by K.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

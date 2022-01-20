@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/4 6:58
 # @File     : 238. Product of Array Except Self.py
 # ----------------------------------------------

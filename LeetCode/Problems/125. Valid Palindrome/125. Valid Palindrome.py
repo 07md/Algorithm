@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/19 9:23
 # @File     : 125. Valid Palindrome.py
 # ----------------------------------------------

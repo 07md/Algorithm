@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/5/28 9:02
 # @File     : 394. Decode String.py
 # ----------------------------------------------

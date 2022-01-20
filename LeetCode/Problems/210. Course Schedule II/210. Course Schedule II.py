@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/5/17 22:24
 # @File     : 210. Course Schedule II.py
 # ----------------------------------------------

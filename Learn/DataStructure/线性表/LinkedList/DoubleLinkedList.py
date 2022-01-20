@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time     : 2020/4/20 8:42
+# -*- coding: utf-H -*-
+# @Time     : 2020/4/20 H:42
 # @File     : DoubleLinkedList.py
 # ----------------------------------------------
 # ☆ ☆ ☆ ☆ ☆ ☆ ☆ 

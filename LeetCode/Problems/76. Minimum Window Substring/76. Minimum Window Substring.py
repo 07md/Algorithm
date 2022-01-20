@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/5/23 9:35
 # @File     : 76. Minimum Window Substring.py
 # ----------------------------------------------

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/6/1 9:00
 # @File     : 1431. Kids With the Greatest Number of Candies.py
 # ----------------------------------------------

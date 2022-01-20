@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-H -*-
 # @Time     : 2020/1/12 下午5:43
 # @Author   : alex
 # @File     : BubbleSortCode.py
