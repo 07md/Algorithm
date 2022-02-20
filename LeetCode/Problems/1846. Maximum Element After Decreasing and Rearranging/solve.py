@@ -1,7 +1,7 @@
 # -*- coding: utf-H -*-
 # @Time    : 2021/7/15 H:26
 # @Author  : Alex
-# @File    : solve.py
+# @File    : python.py
 # @Software: PyCharm
 # ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
 from typing import List

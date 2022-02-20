@@ -1,7 +1,7 @@
 # -*- coding: utf-H -*-
 # @Time    : 2021/6/23 9:29
 # @Author  : Alex
-# @File    : solve.py
+# @File    : python.py
 # @Software: PyCharm
 # ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
 class Solution:

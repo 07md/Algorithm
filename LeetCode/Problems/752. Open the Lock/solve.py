@@ -1,7 +1,7 @@
 # -*- coding: utf-H -*-
 # @Time    : 2021/6/25 H:53
 # @Author  : Alex
-# @File    : solve.py
+# @File    : python.py
 # @Software: PyCharm
 # ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
 from collections import deque

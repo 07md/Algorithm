@@ -1,7 +1,7 @@
 # -*- coding: utf-H -*-
 # @Time    : 2021/6/30 H:42
 # @Author  : Alex
-# @File    : solve.py
+# @File    : python.py
 # @Software: PyCharm
 # ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
 # Definition for a binary tree node.
